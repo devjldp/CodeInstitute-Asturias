@@ -238,8 +238,111 @@ footer {
   z-index: 1;
 }
 
+/* ------------------ History ------------------ */
 
+.container-cards {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
 
+.container-card {
+  flex: 40%;
+}
+
+.card {
+  position: relative;
+  width: 350px;
+  height: 406px;
+  margin: 0 auto;
+  margin-top: 5%;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+  cursor: pointer;
+  transform: translateX(0);
+  background-color: #E8E2BA;
+  margin-bottom: 5%;
+}
+
+.card .face {
+  position: absolute;
+  /* Absolute positioning for controlling overlap */
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  /* Hide the back face in flip animations */
+  border-radius: 10px;
+  overflow: hidden;
+  /* Clip content that overflows the card area */
+  transition: 2000ms;
+  /* Set a 2-second transition for style changes */
+}
+
+.card .front {
+  transform: perspective(600px) rotateY(0deg);
+  /* 3D transformation to create perspective when rotating */
+  box-shadow: 0 5px 10px #000000;
+  /* Box shadow to add depth */
+
+}
+
+.card .front img {
+  position: absolute;
+  /* Absolute positioning for controlling overlap */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.title {
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  background-color: #000000;
+  opacity: 0.8;
+  color: #ffffff;
+  text-align: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.card .back {
+  transform: perspective(600px) rotateY(180deg);
+  /* 3D transformation to create perspective when rotating. This hides the back side. */
+  background: #354F52;
+  padding: 5px;
+  color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  overflow-y: scroll;
+}
+
+.info {
+  font-size: 1rem;
+}
+
+.card.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.card .back::-webkit-scrollbar {
+  box-shadow: inset 0 0 5px white;
+  border-radius: 10px;
+}
+
+.card .back::-webkit-scrollbar-thumb {
+  background-color: rgb(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.card .back::-webkit-scrollbar-thumb:hover {
+  background-color: #333333;
+}
 
 
 
