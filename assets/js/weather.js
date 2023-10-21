@@ -1,7 +1,7 @@
 // Days used to be displayed
 const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-// API key for weather data retrieval
+// API key for weather. It was hidden using Javascript Obfuscator
 var key;
 (function () {
   var XJt = '',
@@ -74,12 +74,17 @@ const getGeoLocation = async () => {
  * @returns {Promise} A promise that resolves with current weather data in JSON format.
  */
 const getCurrentWeather = async () => {
-  // Get the coordinates of the current location using the getGeoLocation function
-  let coordinates = await getGeoLocation();
-  let url = `https://api.weatherapi.com/v1/current.json?key=${key}&q=${coordinates[0]},${coordinates[1]}&aqi=no`;
-  const data = await fetch(url);
-  const weather = await data.json();
-  return weather;
+  try {
+    // Get the coordinates of the current location using the getGeoLocation function
+    let coordinates = await getGeoLocation();
+    let url = `https://api.weatherapi.com/v1/current.json?key=${key}&q=${coordinates[0]},${coordinates[1]}&aqi=no`;
+    const data = await fetch(url);
+    const weather = await data.json();
+    return weather;
+  } catch (error) {
+    console.log(f `An error has happened: ${error}`);
+    throw error;
+  }
 }
 
 /**
@@ -88,11 +93,16 @@ const getCurrentWeather = async () => {
  * @returns {Promise} A promise that resolves with weather data for the city in JSON format.
  */
 const getDataWeather = async (city) => {
-  // Build the API request URL using the provided API key and city
-  let url = `https://api.weatherapi.com/v1/forecast.json?key=${key}&q=${city}&days=3&aqi=no&alerts=no`;
-  const data = await fetch(url);
-  const weather = await data.json();
-  return weather;
+  try {
+    // Build the API request URL using the provided API key and city
+    let url = `https://api.weatherapi.com/v1/forecast.json?key=${key}&q=${city}&days=3&aqi=no&alerts=no`;
+    const data = await fetch(url);
+    const weather = await data.json();
+    return weather;
+  } catch (error) {
+    console.log(f `An error has happened: ${error}`);
+    throw error;
+  }
 }
 
 /**
@@ -160,13 +170,22 @@ const showCurrentInfo = (data) => {
 }
 
 window.addEventListener('DOMContentLoaded', async () => {
-  const current = await getCurrentWeather();
-  showCurrentInfo(current);
-
-  // iterate throught the cities to get the weather data and display the information
-  for (city of cities) {
-    let data = await getDataWeather(city);
-    showImage(data, city);
-    showInfo(data, city, days);
+  try {
+    const current = await getCurrentWeather();
+    showCurrentInfo(current);
+    // iterate throught the cities to get the weather data and display the information
+    for (city of cities) {
+      try {
+        let data = await getDataWeather(city);
+        showImage(data, city);
+        showInfo(data, city, days);
+      } catch (error) {
+        console.log(f `An error has ocurred when iterate on ${city} ${error}`);
+        throw error;
+      }
+    }
+  } catch (error) {
+    console.log(f `An error has ocurred: ${error}`);
+    throw error;
   }
 })
