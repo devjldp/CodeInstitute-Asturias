@@ -46,7 +46,62 @@
     </nav>
   </header>
 
+  <main id="weather-container">
+    <h1 class="hide">Current weather</h1>
+    <!-- Current weather conditions for the current position -->
+    <section id="weather-container1">
+      <div id="date-container">
+        <div id="day" class="text-white text-center"></div>
+        <div id="date" class="text-white text-center"></div>
+      </div>
+      <div id="current-weather-image"></div>
+      <!-- weather conditions -->
+      <div id="temp-box" class="text-white">
+        <div class="text-center mt-2">
+          <p>Temperature: <span id="temp"></span></p>
+        </div>
+        <div class="text-center mt-2">
+          <p>Humidity: <span id="cloud"></span></p>
+        </div>
+        <div class="text-center mt-2">
+          <p>Wind Status: <span id="wind"></span></p>
+        </div>
+      </div>
 
+    </section>
+    <!-- weather condition in the two main cities of Asturias -->
+    <section id="weather-container2">
+      <div class="text-center align-center city-heading">
+        <h2>Oviedo City</h2>
+      </div>
+      <div class="weather-container3">
+        <div class="box-weather">
+          <div class="day-image oviedo"></div>
+          <div class="text-white text-center align-center info-oviedo"></div>
+        </div>
+        <div class="box-weather">
+          <div class="day-image oviedo"></div>
+          <div class="text-white text-center align-center info-oviedo"></div>
+        </div>
+      </div>
+      <div id="cities-line"></div>
+      <div class="text-center align-center city-heading">
+        <h2>Gijon City</h2>
+      </div>
+      <div class="weather-container3">
+        <div class="box-weather">
+          <div class="day-image gijon"></div>
+          <div class="text-white text-center align-center info-gijon"></div>
+        </div>
+        <div class="box-weather">
+          <div class="day-image gijon"></div>
+          <div class="text-white text-center align-center info-gijon"></div>
+        </div>
+      </div>
+
+
+    </section>
+  </main>
 
 
   <footer>
