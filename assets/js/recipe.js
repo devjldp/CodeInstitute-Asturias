@@ -12,12 +12,18 @@ const upArrowFr = document.getElementById('up-arrow-fr');
 const rTitle = document.getElementById('recipe-title');
 const btnR = document.getElementById("btn-hamburguer");
 
-
+/**
+ * This function toggle the visibility of three HTML elements by toggling the 'hide' class.
+ * @param {HTMLElement} element1 - The first element to show or hide.
+ * @param {HTMLElement} element2 - The second element to show or hide.
+ * @param {HTMLElement} element3 - The third element to show or hide.
+ */
 const showRecipe = (element1, element2, element3) => {
   element1.classList.toggle('hide');
   element2.classList.toggle('hide');
   element3.classList.toggle('hide');
 }
+
 window.addEventListener("DOMContentLoaded", () => {
   for (let button of buttons) {
     button.addEventListener('click', () => {
