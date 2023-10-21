@@ -605,6 +605,69 @@ p {
   margin-top: 2%;
 }
 
+/* ------------------ map.html ------------------ */
+#map {
+  width: 75vw;
+  height: 60vh;
+  margin: 2% auto;
+  border: 1px solid black;
+}
+
+.asturias-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.asturias-center button {
+  background-color: #354F52;
+  color: #fafafa;
+  border-radius: 25px;
+  width: 20%;
+  font-size: 16pt;
+  cursor: pointer;
+  margin-bottom: 1%;
+}
+
+.asturias-center button:hover {
+  background-color: #fafafa;
+  color: #354F52;
+  border-color: #354F52;
+}
+
+#btn-flag-S {
+  width: 40px;
+  height: 30px;
+  background-image: url('../images/spain_flag.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#btn-flag-A {
+  width: 40px;
+  height: 30px;
+  background-image: url('../images/asturias_flag.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn-map {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn-map div {
+  margin: 0 5px;
+}
+
+#go-asturias {
+  font-size: 100%;
+}
+
 @media screen and (max-width:768px) {
   #date {
     font-size: 1rem;
