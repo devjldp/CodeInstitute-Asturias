@@ -520,7 +520,10 @@ figure img {
   margin-bottom: 1%;
 }
 
-
+.recipe-steps li,
+p {
+  padding: 0 10px;
+}
 
 @media screen and (max-width:480px) {
 
@@ -585,4 +588,18 @@ figure img {
     font-size: 1.5;
   }
 
+  .recipe-button {
+    width: 30vw;
+  }
+
+  .recipe-steps li,
+  p {
+    padding: 0 5px;
+  }
+}
+
+@media screen and (max-width:400px) {
+  .recipe-button {
+    width: 40vw;
+  }
 }
