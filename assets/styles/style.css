@@ -353,7 +353,7 @@ footer {
   /* header */
   .nav-links {
     position: fixed;
-    top: -12vh;
+    top: -24vh;
     width: 100%;
     height: auto;
     display: flex;
@@ -370,6 +370,7 @@ footer {
 
   #btn-hamburguer {
     display: block;
+    padding-left: 4%;
   }
 
   /* index  */
