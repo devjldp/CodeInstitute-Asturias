@@ -357,14 +357,14 @@ footer {
   /* header */
   .nav-links {
     position: absolute;
-    top: -24vh;
+    top: -40vh;
     width: 100%;
     height: auto;
     display: flex;
     flex-direction: column;
     background-color: #354F52;
     transition: 1000ms;
-    z-index: -5;
+    z-index: -1;
     padding: 5px 0;
   }
 
