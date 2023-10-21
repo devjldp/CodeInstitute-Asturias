@@ -170,6 +170,7 @@ const showCurrentInfo = (data) => {
 }
 
 window.addEventListener('DOMContentLoaded', async () => {
+
   try {
     const current = await getCurrentWeather();
     showCurrentInfo(current);
@@ -188,4 +189,10 @@ window.addEventListener('DOMContentLoaded', async () => {
     console.log(f `An error has ocurred: ${error}`);
     throw error;
   }
+  let btnW = document.getElementById("btn-hamburguer");
+  let wTitle = document.getElementById("weather-container");
+
+  btnW.addEventListener('click', () => {
+    wTitle.classList.toggle('mt-12vw');
+  });
 })
