@@ -605,6 +605,16 @@ p {
   margin-top: 2%;
 }
 
+@media screen and (max-width:768px) {
+  #date {
+    font-size: 1rem;
+  }
+
+  #day {
+    font-size: 1.2rem;
+  }
+}
+
 @media screen and (max-width:480px) {
 
   /* header */
