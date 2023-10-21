@@ -430,21 +430,11 @@ figure img {
 .down-arrow {
   width: 15px;
   height: 15px;
-  background-image: url('../images/down_arrow.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: white;
 }
 
 .up-arrow {
   width: 15px;
   height: 15px;
-  background-image: url('../images/up_arrow.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: white;
   margin-left: 5px;
 }
 
