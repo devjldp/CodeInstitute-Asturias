@@ -1,4 +1,6 @@
 const cards = document.querySelectorAll('.card');
+const btnH = document.getElementById("btn-hamburguer");
+let hTitle = document.getElementById("history-title");
 
 window.addEventListener('DOMContentLoaded', () => {
   // Iterate through each 'card' and toggle the class on the "clicked" card.
@@ -7,4 +9,8 @@ window.addEventListener('DOMContentLoaded', () => {
       card.classList.toggle('is-flipped')
     })
   }
+
+  btnH.addEventListener('click', () => {
+    hTitle.classList.toggle('mt-12vw');
+  });
 })
