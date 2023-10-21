@@ -589,6 +589,7 @@ p {
 }
 
 .day-image {
+  width: 40%;
   height: 50%;
   background-image: url('');
   background-position: center;
