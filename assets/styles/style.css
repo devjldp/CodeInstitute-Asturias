@@ -183,6 +183,60 @@ footer {
   color: #FFD700;
 }
 
+/* ------------------ index ------------------ */
+#index-container-father {
+  width: 100%;
+  background-image: url('../images/cudillero.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+#text-main-image {
+  width: 60vw;
+  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  bottom: 45%;
+  left: 20vw;
+  padding: 2em 0px;
+}
+
+#index-buttons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #354F52;
+  color: #fafafa;
+  border: 1px solid black;
+  border-radius: 25px;
+  font-family: 'Bebas Neue', sans-serif;
+  padding: 5px 10px;
+  font-size: 100%;
+}
+
+.button:hover {
+  background-color: #fafafa;
+  color: #354F52;
+}
+
+#asturias-image {
+  width: 25%;
+  height: 25%;
+  position: absolute;
+  bottom: 10vh;
+  right: 5%;
+  background-image: url('../images/asturias_spain.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  z-index: 1;
+}
 
 
 
@@ -209,10 +263,16 @@ footer {
     top: 12vh;
   }
 
-
-
   #btn-hamburguer {
     display: block;
+  }
+
+  #text-main-image h2 {
+    display: none;
+  }
+
+  #index-buttons {
+    display: none;
   }
 
 }
