@@ -1,0 +1,4113 @@
+{
+  "restaurants": {
+    "0": {
+      "name": "Al Boccalino",
+      "location": "Gijón",
+      "lat": 43.5423502,
+      "lon": -5.6700131,
+      "stars": 0,
+      "web": ""
+    },
+    "1": {
+      "name": "Gala. Hotel Silken Ciudad de Gijón",
+      "location": "Gijón",
+      "lat": 43.537029,
+      "lon": -5.674878,
+      "stars": 0,
+      "web": ""
+    },
+    "2": {
+      "name": "Tierra Astur - Avilés",
+      "location": "Comarca Avilés",
+      "lat": 43.555216,
+      "lon": -5.922942,
+      "stars": 0,
+      "web": ""
+    },
+    "3": {
+      "name": "Meraki",
+      "location": "Oviedo",
+      "lat": 43.361192,
+      "lon": -5.843316,
+      "stars": 0,
+      "web": ""
+    },
+    "4": {
+      "name": "El Chispero",
+      "location": "Oriente de Asturias",
+      "lat": 43.396422,
+      "lon": -4.635385,
+      "stars": 0,
+      "web": ""
+    },
+    "5": {
+      "name": "Las Gaviotas",
+      "location": "Comarca Avilés",
+      "lat": 43.57312,
+      "lon": -5.99943,
+      "stars": 0,
+      "web": ""
+    },
+    "6": {
+      "name": "Alterna Sidrería",
+      "location": "Oviedo",
+      "lat": 43.371253,
+      "lon": -5.836048,
+      "stars": 0,
+      "web": ""
+    },
+    "7": {
+      "name": "El Requexu",
+      "location": "Gijón",
+      "lat": 43.536892,
+      "lon": -5.662661,
+      "stars": 0,
+      "web": ""
+    },
+    "8": {
+      "name": "Tierra Astur - Águila",
+      "location": "Comarca del Nora",
+      "lat": 43.379809,
+      "lon": -5.790537,
+      "stars": 0,
+      "web": ""
+    },
+    "9": {
+      "name": "Parrilla Muñó Feijóo",
+      "location": "Gijón",
+      "lat": 43.532315,
+      "lon": -5.653693,
+      "stars": 0,
+      "web": ""
+    },
+    "10": {
+      "name": "Parrilla Muñó Poniente",
+      "location": "Gijón",
+      "lat": 43.538934,
+      "lon": -5.68054,
+      "stars": 0,
+      "web": ""
+    },
+    "11": {
+      "name": "La Noceda",
+      "location": "Oviedo",
+      "lat": 43.365416,
+      "lon": -5.843026,
+      "stars": 0,
+      "web": ""
+    },
+    "12": {
+      "name": "La Finca Sidrería Agrobar",
+      "location": "Oviedo",
+      "lat": 43.364934,
+      "lon": -5.844261,
+      "stars": 0,
+      "web": ""
+    },
+    "13": {
+      "name": "Casa Ataulfo",
+      "location": "Gijón",
+      "lat": 43.540175,
+      "lon": -5.660045,
+      "stars": 0,
+      "web": ""
+    },
+    "14": {
+      "name": "Cabañaquinta",
+      "location": "Gijón",
+      "lat": 43.522471,
+      "lon": -5.668433,
+      "stars": 0,
+      "web": ""
+    },
+    "15": {
+      "name": "La Pomar",
+      "location": "Valle del Nalón",
+      "lat": 43.312218,
+      "lon": -5.690706,
+      "stars": 0,
+      "web": ""
+    },
+    "16": {
+      "name": "Vega Redonda",
+      "location": "Oriente de Asturias",
+      "lat": 43.351612,
+      "lon": -5.129809,
+      "stars": 0,
+      "web": ""
+    },
+    "17": {
+      "name": "Feudo Real",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.388727,
+      "lon": -6.06783,
+      "stars": 0,
+      "web": ""
+    },
+    "18": {
+      "name": "Casa Cortina",
+      "location": "Comarca de la Sidra",
+      "lat": 43.467108,
+      "lon": -5.443922,
+      "stars": 0,
+      "web": ""
+    },
+    "19": {
+      "name": "El Ferroviario",
+      "location": "Oviedo",
+      "lat": 43.363948,
+      "lon": -5.844657,
+      "stars": 0,
+      "web": ""
+    },
+    "20": {
+      "name": "Tierra Astur - Gascona",
+      "location": "Oviedo",
+      "lat": 43.363853,
+      "lon": -5.844017,
+      "stars": 0,
+      "web": ""
+    },
+    "21": {
+      "name": "Arbidel",
+      "location": "Ribadesella",
+      "lat": 43.461042,
+      "lon": -5.059865,
+      "stars": 1,
+      "web": "https://arbidelrestaurante.com/"
+    },
+    "22": {
+      "name": "Tella. Palacio de Luces",
+      "location": "Comarca de la Sidra",
+      "lat": 43.515922,
+      "lon": -5.287694,
+      "stars": 0,
+      "web": ""
+    },
+    "23": {
+      "name": "Blanco",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.537211,
+      "lon": -6.708414,
+      "stars": 0,
+      "web": ""
+    },
+    "24": {
+      "name": "Eutimio",
+      "location": "Comarca de la Sidra",
+      "lat": 43.512997,
+      "lon": -5.268063,
+      "stars": 0,
+      "web": ""
+    },
+    "25": {
+      "name": "Éleonore",
+      "location": "Comarca Avilés",
+      "lat": 43.579242,
+      "lon": -5.953953,
+      "stars": 0,
+      "web": ""
+    },
+    "26": {
+      "name": "Casa Marcial",
+      "location": "Arriondas",
+      "lat": 43.418336,
+      "lon": -5.193112,
+      "stars": 2,
+      "web": "https://casamarcial.es/"
+    },
+    "27": {
+      "name": "Palacio de Cutre",
+      "location": "Oriente de Asturias",
+      "lat": 43.377394,
+      "lon": -5.276201,
+      "stars": 0,
+      "web": ""
+    },
+    "28": {
+      "name": "La Pondala",
+      "location": "Gijón",
+      "lat": 43.536769,
+      "lon": -5.622431,
+      "stars": 0,
+      "web": ""
+    },
+    "29": {
+      "name": "Real Balneario",
+      "location": "Salians",
+      "lat": 43.578184,
+      "lon": -5.967511,
+      "stars": 1,
+      "web": "https://www.realbalneario.com/es/"
+    },
+    "30": {
+      "name": "Casa Zoilo",
+      "location": "Bajo Nalón",
+      "lat": 43.5415314,
+      "lon": -6.1025288,
+      "stars": 0,
+      "web": ""
+    },
+    "31": {
+      "name": "Pedro Martino",
+      "location": "Oviedo",
+      "lat": 43.330723,
+      "lon": -5.931973,
+      "stars": 0,
+      "web": ""
+    },
+    "32": {
+      "name": "El Cenador del Azul",
+      "location": "Montaña Central",
+      "lat": 43.254107,
+      "lon": -5.777077,
+      "stars": 0,
+      "web": ""
+    },
+    "33": {
+      "name": "Ciudadela",
+      "location": "Gijón",
+      "lat": 43.541403,
+      "lon": -5.658555,
+      "stars": 0,
+      "web": ""
+    },
+    "34": {
+      "name": "V. Crespo",
+      "location": "Gijón",
+      "lat": 43.537821,
+      "lon": -5.66226,
+      "stars": 0,
+      "web": ""
+    },
+    "35": {
+      "name": "Casa Gerardo",
+      "location": "Prendes",
+      "lat": 43.558998,
+      "lon": -5.765961,
+      "stars": 0,
+      "web": "https://www.restaurantecasagerardo.es/"
+    },
+    "36": {
+      "name": "El Balcón de Torazo",
+      "location": "Comarca de la Sidra",
+      "lat": 43.394379,
+      "lon": -5.403546,
+      "stars": 0,
+      "web": ""
+    },
+    "37": {
+      "name": "Casa Fermín",
+      "location": "Oviedo",
+      "lat": 43.362076,
+      "lon": -5.846932,
+      "stars": 0,
+      "web": ""
+    },
+    "38": {
+      "name": "Al Son del Indiano",
+      "location": "Comarca Vaqueira",
+      "lat": 43.469339,
+      "lon": -6.229597,
+      "stars": 0,
+      "web": ""
+    },
+    "39": {
+      "name": "Sport",
+      "location": "Comarca Vaqueira",
+      "lat": 43.567457,
+      "lon": -6.535707,
+      "stars": 0,
+      "web": ""
+    },
+    "40": {
+      "name": "Casa Adela",
+      "location": "Valle del Nalón",
+      "lat": 43.299701,
+      "lon": -5.707537,
+      "stars": 0,
+      "web": ""
+    },
+    "41": {
+      "name": "El Asador de Abel",
+      "location": "Comarca del Nora",
+      "lat": 43.385404,
+      "lon": -5.731481,
+      "stars": 0,
+      "web": ""
+    },
+    "42": {
+      "name": "Del Arco",
+      "location": "Oviedo",
+      "lat": 43.36137,
+      "lon": -5.8574,
+      "stars": 0,
+      "web": ""
+    },
+    "43": {
+      "name": "Puebloastur",
+      "location": "Oriente de Asturias",
+      "lat": 43.411838,
+      "lon": -5.228135,
+      "stars": 0,
+      "web": ""
+    },
+    "44": {
+      "name": "La Ferrada",
+      "location": "Comarca del Nora",
+      "lat": 43.402531,
+      "lon": -5.7208594,
+      "stars": 0,
+      "web": ""
+    },
+    "45": {
+      "name": "Quince Nudos",
+      "location": "Oriente de Asturias",
+      "lat": 43.46471,
+      "lon": -5.066522,
+      "stars": 0,
+      "web": ""
+    },
+    "46": {
+      "name": "Casa Telva",
+      "location": "Comarca del Nora",
+      "lat": 43.364907,
+      "lon": -5.653122,
+      "stars": 0,
+      "web": ""
+    },
+    "47": {
+      "name": "El Corral del Indianu",
+      "location": "Arriondas",
+      "lat": 43.39022,
+      "lon": -5.184359,
+      "stars": 1,
+      "web": "https://elcorraldelindianu.com/"
+    },
+    "48": {
+      "name": "Villa Blanca",
+      "location": "Comarca Vaqueira",
+      "lat": 43.541246,
+      "lon": -6.538443,
+      "stars": 0,
+      "web": ""
+    },
+    "49": {
+      "name": "Zascandil",
+      "location": "Gijón",
+      "lat": 43.542199,
+      "lon": -5.665623,
+      "stars": 0,
+      "web": ""
+    },
+    "50": {
+      "name": "Gotta de Tierra del Agua",
+      "location": "Valle del Nalón",
+      "lat": 43.1572165,
+      "lon": -5.41527,
+      "stars": 0,
+      "web": ""
+    },
+    "51": {
+      "name": "Casa Belarmino",
+      "location": "Cabo Peñas",
+      "lat": 43.604573,
+      "lon": -5.877699,
+      "stars": 0,
+      "web": ""
+    },
+    "52": {
+      "name": "Roble by Jairo Rodríguez",
+      "location": "Montaña Central",
+      "lat": 43.152881,
+      "lon": -5.826645,
+      "stars": 0,
+      "web": ""
+    },
+    "53": {
+      "name": "Lena",
+      "location": "Comarca de la Sidra",
+      "lat": 43.482404,
+      "lon": -5.432162,
+      "stars": 0,
+      "web": ""
+    },
+    "54": {
+      "name": "Casa Niembro",
+      "location": "Oriente de Asturias",
+      "lat": 43.325197,
+      "lon": -4.863052,
+      "stars": 0,
+      "web": ""
+    },
+    "55": {
+      "name": "Palacio de Villabona",
+      "location": "Comarca del Nora",
+      "lat": 43.462294,
+      "lon": -5.832227,
+      "stars": 0,
+      "web": ""
+    },
+    "56": {
+      "name": "La Pumarada",
+      "location": "Oviedo",
+      "lat": 43.364377,
+      "lon": -5.844545,
+      "stars": 0,
+      "web": ""
+    },
+    "57": {
+      "name": "Tierra Astur - Poniente",
+      "location": "Gijón",
+      "lat": 43.541391,
+      "lon": -5.675155,
+      "stars": 0,
+      "web": ""
+    },
+    "58": {
+      "name": "Tierra Astur Parrilla",
+      "location": "Oviedo",
+      "lat": 43.363962,
+      "lon": -5.844035,
+      "stars": 0,
+      "web": ""
+    },
+    "59": {
+      "name": "La Galana",
+      "location": "Gijón",
+      "lat": 43.54515,
+      "lon": -5.662559,
+      "stars": 0,
+      "web": ""
+    },
+    "60": {
+      "name": "Bellavista",
+      "location": "Gijón",
+      "lat": 43.544007,
+      "lon": -5.646164,
+      "stars": 0,
+      "web": ""
+    },
+    "61": {
+      "name": "Casa Edelmiro",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.419092,
+      "lon": -5.933713,
+      "stars": 0,
+      "web": ""
+    },
+    "62": {
+      "name": "El Llar de Viri",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.448988,
+      "lon": -6.076562,
+      "stars": 0,
+      "web": ""
+    },
+    "63": {
+      "name": "El Cordial Casa Chema",
+      "location": "Oviedo",
+      "lat": 43.324676,
+      "lon": -5.88267,
+      "stars": 0,
+      "web": ""
+    },
+    "64": {
+      "name": "Funsiquín",
+      "location": "Fuentes del Narcea",
+      "lat": 43.013173,
+      "lon": -6.608263,
+      "stars": 0,
+      "web": ""
+    },
+    "65": {
+      "name": "Asador Fordaliz",
+      "location": "Fuentes del Narcea",
+      "lat": 43.058196,
+      "lon": -6.645179,
+      "stars": 0,
+      "web": ""
+    },
+    "66": {
+      "name": "THE GREEN Restaurante Lounge",
+      "location": "Comarca de la Sidra",
+      "lat": 43.52012,
+      "lon": -5.561737,
+      "stars": 0,
+      "web": ""
+    },
+    "67": {
+      "name": "Miramar",
+      "location": "Comarca Vaqueira",
+      "lat": 43.547059,
+      "lon": -6.533424,
+      "stars": 0,
+      "web": ""
+    },
+    "68": {
+      "name": "Canero",
+      "location": "Comarca Vaqueira",
+      "lat": 43.546899,
+      "lon": -6.465762,
+      "stars": 0,
+      "web": ""
+    },
+    "69": {
+      "name": "La Magaya",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.539786,
+      "lon": -6.724671,
+      "stars": 0,
+      "web": ""
+    },
+    "70": {
+      "name": "Casa Pedro",
+      "location": "Oriente de Asturias",
+      "lat": 43.354494,
+      "lon": -5.147305,
+      "stars": 0,
+      "web": ""
+    },
+    "71": {
+      "name": "La Montera Picona",
+      "location": "Gijón",
+      "lat": 43.535688,
+      "lon": -5.66337,
+      "stars": 0,
+      "web": ""
+    },
+    "72": {
+      "name": "Bömarzo",
+      "location": "Gijón",
+      "lat": 43.531221,
+      "lon": -5.633328,
+      "stars": 0,
+      "web": ""
+    },
+    "73": {
+      "name": "Llagar Bernueces",
+      "location": "Gijón",
+      "lat": 43.5089256,
+      "lon": -5.6205887,
+      "stars": 0,
+      "web": ""
+    },
+    "74": {
+      "name": "Las Terrazas de Sardalla",
+      "location": "Oriente de Asturias",
+      "lat": 43.447289,
+      "lon": -5.072025,
+      "stars": 0,
+      "web": ""
+    },
+    "75": {
+      "name": "El Balcón de Bueño",
+      "location": "Montaña Central",
+      "lat": 43.315922,
+      "lon": -5.893662,
+      "stars": 0,
+      "web": ""
+    },
+    "76": {
+      "name": "El Cándano",
+      "location": "Bajo Nalón",
+      "lat": 43.495225,
+      "lon": -6.127547,
+      "stars": 0,
+      "web": ""
+    },
+    "77": {
+      "name": "Yeguada Albeitar",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.470222,
+      "lon": -6.669077,
+      "stars": 0,
+      "web": ""
+    },
+    "78": {
+      "name": "De Labra",
+      "location": "Oviedo",
+      "lat": 43.36342,
+      "lon": -5.819297,
+      "stars": 0,
+      "web": ""
+    },
+    "79": {
+      "name": "El Invernadero del Sella. Parador de Cangas de Onís",
+      "location": "Oriente de Asturias",
+      "lat": 43.366948,
+      "lon": -5.15098,
+      "stars": 0,
+      "web": ""
+    },
+    "80": {
+      "name": "El Teixo",
+      "location": "Oscos-Eo",
+      "lat": 43.34322,
+      "lon": -7.06209,
+      "stars": 0,
+      "web": ""
+    },
+    "81": {
+      "name": "Valle Las Luiñas",
+      "location": "Comarca Vaqueira",
+      "lat": 43.563002,
+      "lon": -6.232683,
+      "stars": 0,
+      "web": ""
+    },
+    "82": {
+      "name": "El Cenador del Convento",
+      "location": "Oriente de Asturias",
+      "lat": 43.421282,
+      "lon": -4.757017,
+      "stars": 0,
+      "web": ""
+    },
+    "83": {
+      "name": "Las Tablas del Campillín",
+      "location": "Oviedo",
+      "lat": 43.356772,
+      "lon": -5.843192,
+      "stars": 0,
+      "web": ""
+    },
+    "84": {
+      "name": "Ewan Salinas",
+      "location": "Comarca Avilés",
+      "lat": 43.576967,
+      "lon": -5.962429,
+      "stars": 0,
+      "web": ""
+    },
+    "85": {
+      "name": "Entreplazas",
+      "location": "Gijón",
+      "lat": 43.544864,
+      "lon": -5.662326,
+      "stars": 0,
+      "web": ""
+    },
+    "86": {
+      "name": "El Trasgu de Besullo",
+      "location": "Fuentes del Narcea",
+      "lat": 43.186948,
+      "lon": -6.63429,
+      "stars": 0,
+      "web": ""
+    },
+    "87": {
+      "name": "La Manzana",
+      "location": "Oviedo",
+      "lat": 43.364942,
+      "lon": -5.845467,
+      "stars": 0,
+      "web": ""
+    },
+    "88": {
+      "name": "La Barraca",
+      "location": "Comarca de la Sidra",
+      "lat": 43.363114,
+      "lon": -5.511459,
+      "stars": 0,
+      "web": ""
+    },
+    "89": {
+      "name": "The Camden Market",
+      "location": "Cabo Peñas",
+      "lat": 43.589222,
+      "lon": -5.765595,
+      "stars": 0,
+      "web": ""
+    },
+    "90": {
+      "name": "La Panera",
+      "location": "Oriente de Asturias",
+      "lat": 43.317577,
+      "lon": -4.803247,
+      "stars": 0,
+      "web": ""
+    },
+    "91": {
+      "name": "Gran Hotel Cela",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.283239,
+      "lon": -6.218568,
+      "stars": 0,
+      "web": ""
+    },
+    "92": {
+      "name": "Secreto a Voces",
+      "location": "Oviedo",
+      "lat": 43.367312,
+      "lon": -5.85323,
+      "stars": 0,
+      "web": ""
+    },
+    "93": {
+      "name": "La Casona",
+      "location": "Oriente de Asturias",
+      "lat": 43.420892,
+      "lon": -4.753379,
+      "stars": 0,
+      "web": ""
+    },
+    "94": {
+      "name": "Maruja Bayón",
+      "location": "Montaña Central",
+      "lat": 43.168112,
+      "lon": -5.738184,
+      "stars": 0,
+      "web": ""
+    },
+    "95": {
+      "name": "Auga",
+      "location": "Gijón",
+      "lat": 43.546511,
+      "lon": -5.666652,
+      "stars": 1,
+      "web": "https://restauranteauga.com/"
+    },
+    "96": {
+      "name": "La Ferrería",
+      "location": "Oviedo",
+      "lat": 43.386135,
+      "lon": -5.814432,
+      "stars": 0,
+      "web": ""
+    },
+    "97": {
+      "name": "El Molín de la Pedrera",
+      "location": "Oriente de Asturias",
+      "lat": 43.35172,
+      "lon": -5.129857,
+      "stars": 0,
+      "web": ""
+    },
+    "98": {
+      "name": "Rey Silo Gastrobar",
+      "location": "Bajo Nalón",
+      "lat": 43.490152,
+      "lon": -6.11333,
+      "stars": 0,
+      "web": ""
+    },
+    "99": {
+      "name": "El MIrador del Nalón",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.449399,
+      "lon": -6.07915,
+      "stars": 0,
+      "web": ""
+    },
+    "100": {
+      "name": "Palermo",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.569509,
+      "lon": -6.943776,
+      "stars": 0,
+      "web": ""
+    },
+    "101": {
+      "name": "Área de Servicio Chiquín",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.542747,
+      "lon": -6.982014,
+      "stars": 0,
+      "web": ""
+    },
+    "102": {
+      "name": "Casa Nicasia",
+      "location": "Comarca de la Sidra",
+      "lat": 43.531932,
+      "lon": -5.56548,
+      "stars": 0,
+      "web": ""
+    },
+    "103": {
+      "name": "Casa Zulima",
+      "location": "Valle del Nalón",
+      "lat": 43.157275,
+      "lon": -5.413583,
+      "stars": 0,
+      "web": ""
+    },
+    "104": {
+      "name": "Leitariegos",
+      "location": "Fuentes del Narcea",
+      "lat": 42.997845,
+      "lon": -6.417224,
+      "stars": 0,
+      "web": ""
+    },
+    "105": {
+      "name": "La Terraza",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.431333,
+      "lon": -6.818542,
+      "stars": 0,
+      "web": ""
+    },
+    "106": {
+      "name": "La Villa",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.539478,
+      "lon": -6.722312,
+      "stars": 0,
+      "web": ""
+    },
+    "107": {
+      "name": "Amaido",
+      "location": "Oscos-Eo",
+      "lat": 43.410971,
+      "lon": -7.1433,
+      "stars": 0,
+      "web": ""
+    },
+    "108": {
+      "name": "Eskar",
+      "location": "Oviedo",
+      "lat": 43.370528,
+      "lon": -5.839897,
+      "stars": 0,
+      "web": ""
+    },
+    "109": {
+      "name": "Café San Asian's Longe",
+      "location": "Oviedo",
+      "lat": 43.365779,
+      "lon": -5.850711,
+      "stars": 0,
+      "web": ""
+    },
+    "110": {
+      "name": "Cabo Torres. Tryp Rey Pelayo",
+      "location": "Gijón",
+      "lat": 43.536247,
+      "lon": -5.643322,
+      "stars": 0,
+      "web": ""
+    },
+    "111": {
+      "name": "El Puente",
+      "location": "Valle del Nalón",
+      "lat": 43.289052,
+      "lon": -5.637389,
+      "stars": 0,
+      "web": ""
+    },
+    "112": {
+      "name": "La Más Barata. Maridaje",
+      "location": "Oviedo",
+      "lat": 43.366233,
+      "lon": -5.853334,
+      "stars": 0,
+      "web": ""
+    },
+    "113": {
+      "name": "La Chalana Oviedo",
+      "location": "Oviedo",
+      "lat": 43.364069,
+      "lon": -5.84683,
+      "stars": 0,
+      "web": ""
+    },
+    "114": {
+      "name": "La Chalana Granda",
+      "location": "Comarca del Nora",
+      "lat": 43.385121,
+      "lon": -5.783876,
+      "stars": 0,
+      "web": ""
+    },
+    "115": {
+      "name": "El Pescador",
+      "location": "Comarca de la Sidra",
+      "lat": 43.545012,
+      "lon": -5.39986,
+      "stars": 0,
+      "web": ""
+    },
+    "116": {
+      "name": "El Pescador",
+      "location": "Bajo Nalón",
+      "lat": 43.559838,
+      "lon": -6.075099,
+      "stars": 0,
+      "web": ""
+    },
+    "117": {
+      "name": "El Pescador",
+      "location": "Cabo Peñas",
+      "lat": 43.590014,
+      "lon": -5.76314,
+      "stars": 0,
+      "web": ""
+    },
+    "118": {
+      "name": "El Espartal. Hotel Zen Los Balagares",
+      "location": "Comarca Avilés",
+      "lat": 43.543762,
+      "lon": -5.893991,
+      "stars": 0,
+      "web": ""
+    },
+    "119": {
+      "name": "Moniello",
+      "location": "Cabo Peñas",
+      "lat": 43.631714,
+      "lon": -5.795463,
+      "stars": 0,
+      "web": ""
+    },
+    "120": {
+      "name": "Casa de Comidas La Esperanza",
+      "location": "Comarca Avilés",
+      "lat": 43.570846,
+      "lon": -5.994919,
+      "stars": 0,
+      "web": ""
+    },
+    "121": {
+      "name": "Casa del Pueblo",
+      "location": "Valle del Nalón",
+      "lat": 43.287862,
+      "lon": -5.638767,
+      "stars": 0,
+      "web": ""
+    },
+    "122": {
+      "name": "Terra Meiga - Oviedo",
+      "location": "Oviedo",
+      "lat": 43.363603,
+      "lon": -5.844255,
+      "stars": 0,
+      "web": ""
+    },
+    "123": {
+      "name": "Terra Meiga (Granda-Siero)",
+      "location": "Comarca del Nora",
+      "lat": 43.381334,
+      "lon": -5.782536,
+      "stars": 0,
+      "web": ""
+    },
+    "124": {
+      "name": "Simancas",
+      "location": "Gijón",
+      "lat": 43.535667,
+      "lon": -5.653491,
+      "stars": 0,
+      "web": ""
+    },
+    "125": {
+      "name": "La Pacha",
+      "location": "Valle del Nalón",
+      "lat": 43.244021,
+      "lon": -5.563392,
+      "stars": 0,
+      "web": ""
+    },
+    "126": {
+      "name": "Canzana",
+      "location": "Valle del Nalón",
+      "lat": 43.236131,
+      "lon": -5.56486,
+      "stars": 0,
+      "web": ""
+    },
+    "127": {
+      "name": "El Valle",
+      "location": "Oviedo",
+      "lat": 43.366536,
+      "lon": -5.852539,
+      "stars": 0,
+      "web": ""
+    },
+    "128": {
+      "name": "El Cartero",
+      "location": "Gijón",
+      "lat": 43.535388,
+      "lon": -5.656321,
+      "stars": 0,
+      "web": ""
+    },
+    "129": {
+      "name": "Pizzería Suiza",
+      "location": "Valle del Nalón",
+      "lat": 43.244927,
+      "lon": -5.561515,
+      "stars": 0,
+      "web": ""
+    },
+    "130": {
+      "name": "Camacho",
+      "location": "Oviedo",
+      "lat": 43.324833,
+      "lon": -5.790336,
+      "stars": 0,
+      "web": ""
+    },
+    "131": {
+      "name": "Pizzería Truli",
+      "location": "Oviedo",
+      "lat": 43.36503,
+      "lon": -5.851324,
+      "stars": 0,
+      "web": ""
+    },
+    "132": {
+      "name": "Hospedería del Peregrino",
+      "location": "Oriente de Asturias",
+      "lat": 43.308231,
+      "lon": -5.051173,
+      "stars": 0,
+      "web": ""
+    },
+    "133": {
+      "name": "La Casona de Rey",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.302012,
+      "lon": -6.236302,
+      "stars": 0,
+      "web": ""
+    },
+    "134": {
+      "name": "Mesón El Centro",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.565151,
+      "lon": -6.64679,
+      "stars": 0,
+      "web": ""
+    },
+    "135": {
+      "name": "Trébole",
+      "location": "Gijón",
+      "lat": 43.546419,
+      "lon": -5.662951,
+      "stars": 0,
+      "web": ""
+    },
+    "136": {
+      "name": "A Feira do Pulpo",
+      "location": "Gijón",
+      "lat": 43.538158,
+      "lon": -5.648263,
+      "stars": 0,
+      "web": ""
+    },
+    "137": {
+      "name": "Casa Vicente",
+      "location": "Oscos-Eo",
+      "lat": 43.524773,
+      "lon": -7.029421,
+      "stars": 0,
+      "web": ""
+    },
+    "138": {
+      "name": "Los Nogales",
+      "location": "Gijón",
+      "lat": 43.499772,
+      "lon": -5.629402,
+      "stars": 0,
+      "web": ""
+    },
+    "139": {
+      "name": "Casa Vicentón",
+      "location": "Comarca Vaqueira",
+      "lat": 43.404478,
+      "lon": -6.545294,
+      "stars": 0,
+      "web": ""
+    },
+    "140": {
+      "name": "Los Arándanos",
+      "location": "Oscos-Eo",
+      "lat": 43.336882,
+      "lon": -7.081429,
+      "stars": 0,
+      "web": ""
+    },
+    "141": {
+      "name": "La Corte",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.091644,
+      "lon": -6.336196,
+      "stars": 0,
+      "web": ""
+    },
+    "142": {
+      "name": "Arnicio",
+      "location": "Valle del Nalón",
+      "lat": 43.181742,
+      "lon": -5.347483,
+      "stars": 0,
+      "web": ""
+    },
+    "143": {
+      "name": "Casa Lobato",
+      "location": "Oviedo",
+      "lat": 43.374173,
+      "lon": -5.861992,
+      "stars": 0,
+      "web": ""
+    },
+    "144": {
+      "name": "La Fuécara de la Torre",
+      "location": "Comarca del Nora",
+      "lat": 43.537668,
+      "lon": -5.658187,
+      "stars": 0,
+      "web": ""
+    },
+    "145": {
+      "name": "Llagar La Morena",
+      "location": "Comarca del Nora",
+      "lat": 43.396785,
+      "lon": -5.781453,
+      "stars": 0,
+      "web": ""
+    },
+    "146": {
+      "name": "El Álamo",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.551449,
+      "lon": -6.953461,
+      "stars": 0,
+      "web": ""
+    },
+    "147": {
+      "name": "La Ola",
+      "location": "Gijón",
+      "lat": 43.538829,
+      "lon": -5.670043,
+      "stars": 0,
+      "web": ""
+    },
+    "148": {
+      "name": "Asador la Miranda",
+      "location": "Comarca del Nora",
+      "lat": 43.464129,
+      "lon": -5.850392,
+      "stars": 0,
+      "web": ""
+    },
+    "149": {
+      "name": "El Torneiro",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.44987,
+      "lon": -6.706387,
+      "stars": 0,
+      "web": ""
+    },
+    "150": {
+      "name": "Taberna Salcedo",
+      "location": "Oviedo",
+      "lat": 43.371208,
+      "lon": -5.837134,
+      "stars": 0,
+      "web": ""
+    },
+    "151": {
+      "name": "Casa Marisa",
+      "location": "Oriente de Asturias",
+      "lat": 43.36372,
+      "lon": -4.570401,
+      "stars": 0,
+      "web": ""
+    },
+    "152": {
+      "name": "Mirador",
+      "location": "Comarca de la Sidra",
+      "lat": 43.516331,
+      "lon": -5.26928,
+      "stars": 0,
+      "web": ""
+    },
+    "153": {
+      "name": "Asador Puerto Chico",
+      "location": "Bajo Nalón",
+      "lat": 43.555006,
+      "lon": -6.084136,
+      "stars": 0,
+      "web": ""
+    },
+    "154": {
+      "name": "La Costana",
+      "location": "Comarca del Nora",
+      "lat": 43.382603,
+      "lon": -5.779324,
+      "stars": 0,
+      "web": ""
+    },
+    "155": {
+      "name": "Galeón de Pepe",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.551756,
+      "lon": -6.718092,
+      "stars": 0,
+      "web": ""
+    },
+    "156": {
+      "name": "Paloma",
+      "location": "Comarca Vaqueira",
+      "lat": 43.563313,
+      "lon": -6.1477639,
+      "stars": 0,
+      "web": ""
+    },
+    "157": {
+      "name": "La Parpayuela",
+      "location": "Comarca Avilés",
+      "lat": 43.53592,
+      "lon": -5.898221,
+      "stars": 0,
+      "web": ""
+    },
+    "158": {
+      "name": "El Casino",
+      "location": "Comarca Vaqueira",
+      "lat": 43.271213,
+      "lon": -6.611681,
+      "stars": 0,
+      "web": ""
+    },
+    "159": {
+      "name": "Sidrería Plaza",
+      "location": "Comarca de la Sidra",
+      "lat": 43.358428,
+      "lon": -5.506285,
+      "stars": 0,
+      "web": ""
+    },
+    "160": {
+      "name": "Casa Víctor",
+      "location": "Gijón",
+      "lat": 43.541614,
+      "lon": -5.666223,
+      "stars": 0,
+      "web": ""
+    },
+    "161": {
+      "name": "El Tendejón de Fernando",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.392805,
+      "lon": -5.948781,
+      "stars": 0,
+      "web": ""
+    },
+    "162": {
+      "name": "La Venta del Valloberu",
+      "location": "Comarca de la Sidra",
+      "lat": 43.482967,
+      "lon": -5.434059,
+      "stars": 0,
+      "web": ""
+    },
+    "163": {
+      "name": "La Parra",
+      "location": "Oriente de asturias",
+      "lat": 43.385696,
+      "lon": -4.571821,
+      "stars": 0,
+      "web": ""
+    },
+    "164": {
+      "name": "San Fernando",
+      "location": "Comarca Avilés",
+      "lat": 43.554458,
+      "lon": -5.929503,
+      "stars": 0,
+      "web": ""
+    },
+    "165": {
+      "name": "Casa Pipo",
+      "location": "Comarca Vaqueira",
+      "lat": 43.274339,
+      "lon": -6.371033,
+      "stars": 0,
+      "web": ""
+    },
+    "166": {
+      "name": "Casa Vieja del Sastre",
+      "location": "Comarca Vaqueira",
+      "lat": 43.559568,
+      "lon": -6.229594,
+      "stars": 0,
+      "web": ""
+    },
+    "167": {
+      "name": "Bodegón del Dobra",
+      "location": "Oriente de Asturias",
+      "lat": 43.312923,
+      "lon": -5.130254,
+      "stars": 0,
+      "web": ""
+    },
+    "168": {
+      "name": "La Portiella",
+      "location": "Oriente de Asturias",
+      "lat": 43.472957,
+      "lon": -5.09862,
+      "stars": 0,
+      "web": ""
+    },
+    "169": {
+      "name": "Las Duernas",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.065533,
+      "lon": -6.178161,
+      "stars": 0,
+      "web": ""
+    },
+    "170": {
+      "name": "Venta La Flor",
+      "location": "Comarca del Nora",
+      "lat": 43.383871,
+      "lon": -5.742702,
+      "stars": 0,
+      "web": ""
+    },
+    "171": {
+      "name": "La Palma",
+      "location": "Oriente de Asturias",
+      "lat": 43.41945,
+      "lon": -4.755537,
+      "stars": 0,
+      "web": ""
+    },
+    "172": {
+      "name": "Sidrería Mejuto",
+      "location": "Valle del Nalón",
+      "lat": 43.289671,
+      "lon": -5.638642,
+      "stars": 0,
+      "web": ""
+    },
+    "173": {
+      "name": "Casa Marta",
+      "location": "Oriente de Asturias",
+      "lat": 43.367218,
+      "lon": -5.8755048,
+      "stars": 0,
+      "web": ""
+    },
+    "174": {
+      "name": "Ronda 14",
+      "location": "Comarca Avilés",
+      "lat": 43.555138,
+      "lon": -5.923741,
+      "stars": 0,
+      "web": ""
+    },
+    "175": {
+      "name": "Casa Román",
+      "location": "Gijón",
+      "lat": 43.540462,
+      "lon": -5.657598,
+      "stars": 0,
+      "web": ""
+    },
+    "176": {
+      "name": "Pizzería Venecia",
+      "location": "Gijón",
+      "lat": 43.538432,
+      "lon": -5.650242,
+      "stars": 0,
+      "web": ""
+    },
+    "177": {
+      "name": "La Estación",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.535464,
+      "lon": -6.705808,
+      "stars": 0,
+      "web": ""
+    },
+    "178": {
+      "name": "El Loco del Pelo Rojo",
+      "location": "Oviedo",
+      "lat": 43.360811,
+      "lon": -5.846589,
+      "stars": 0,
+      "web": ""
+    },
+    "179": {
+      "name": "La Taberna del Puerto",
+      "location": "Comarca Vaqueira",
+      "lat": 43.563468,
+      "lon": -6.145862,
+      "stars": 0,
+      "web": ""
+    },
+    "180": {
+      "name": "El Rincón de Marcelo",
+      "location": "Bajo Nalón",
+      "lat": 43.490733,
+      "lon": -6.113294,
+      "stars": 0,
+      "web": ""
+    },
+    "181": {
+      "name": "El Forquetu",
+      "location": "Oriente de Asturias",
+      "lat": 43.389279,
+      "lon": -5.18559,
+      "stars": 0,
+      "web": ""
+    },
+    "182": {
+      "name": "La Tenada",
+      "location": "Comarca Avilés",
+      "lat": 43.495168,
+      "lon": -5.968715,
+      "stars": 0,
+      "web": ""
+    },
+    "183": {
+      "name": "Ovetense",
+      "location": "Oviedo",
+      "lat": 43.363008,
+      "lon": -5.84517,
+      "stars": 0,
+      "web": ""
+    },
+    "184": {
+      "name": "El Sueve",
+      "location": "Gijón",
+      "lat": 43.536351,
+      "lon": -5.662077,
+      "stars": 0,
+      "web": ""
+    },
+    "185": {
+      "name": "Bocamar",
+      "location": "Oviedo",
+      "lat": 43.364511,
+      "lon": -5.853474,
+      "stars": 0,
+      "web": ""
+    },
+    "186": {
+      "name": "El Meirel",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.092831,
+      "lon": -6.256848,
+      "stars": 0,
+      "web": ""
+    },
+    "187": {
+      "name": "San Pelayo",
+      "location": "Oriente de Asturias",
+      "lat": 43.436545,
+      "lon": -4.841131,
+      "stars": 0,
+      "web": ""
+    },
+    "188": {
+      "name": "Castillo Valdés-Salas",
+      "location": "Comarca Vaqueira",
+      "lat": 43.409276,
+      "lon": -6.261692,
+      "stars": 0,
+      "web": ""
+    },
+    "189": {
+      "name": "Risón",
+      "location": "Oscos-Eo",
+      "lat": 43.5275751,
+      "lon": -7.033778,
+      "stars": 0,
+      "web": ""
+    },
+    "190": {
+      "name": "Los Panchos",
+      "location": "Valle del Nalón",
+      "lat": 43.2359143,
+      "lon": -5.529988,
+      "stars": 0,
+      "web": ""
+    },
+    "191": {
+      "name": "La Chalana Avilés",
+      "location": "Comarca Avilés",
+      "lat": 43.571419,
+      "lon": -5.923358,
+      "stars": 0,
+      "web": ""
+    },
+    "192": {
+      "name": "A Feira",
+      "location": "Comarca Avilés",
+      "lat": 43.54513,
+      "lon": -5.882879,
+      "stars": 0,
+      "web": ""
+    },
+    "193": {
+      "name": "La Quintana",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.543152,
+      "lon": -6.701939,
+      "stars": 0,
+      "web": ""
+    },
+    "194": {
+      "name": "Torrontegui",
+      "location": "Cabo Peñas",
+      "lat": 43.565584,
+      "lon": -5.74164,
+      "stars": 0,
+      "web": ""
+    },
+    "195": {
+      "name": "El Antoju",
+      "location": "Oriente de Asturias",
+      "lat": 43.420485,
+      "lon": -4.754251,
+      "stars": 0,
+      "web": ""
+    },
+    "196": {
+      "name": "La Casona de Entralgo",
+      "location": "Valle del Nalón",
+      "lat": 43.234557,
+      "lon": -5.5577507,
+      "stars": 0,
+      "web": ""
+    },
+    "197": {
+      "name": "Los Felechos",
+      "location": "Oriente de Asturias",
+      "lat": 43.389335,
+      "lon": -5.185824,
+      "stars": 0,
+      "web": ""
+    },
+    "198": {
+      "name": "Peñamar",
+      "location": "Oscos-Eo",
+      "lat": 43.5248523,
+      "lon": -7.0276973,
+      "stars": 0,
+      "web": ""
+    },
+    "199": {
+      "name": "Picofino Gastrobar",
+      "location": "Comarca del Nora",
+      "lat": 43.39474,
+      "lon": -5.662612,
+      "stars": 0,
+      "web": ""
+    },
+    "200": {
+      "name": "Casa Paco",
+      "location": "Comarca del Nora",
+      "lat": 43.389559,
+      "lon": -5.663893,
+      "stars": 0,
+      "web": ""
+    },
+    "201": {
+      "name": "Arbesú",
+      "location": "Comarca del Nora",
+      "lat": 43.36237,
+      "lon": -5.733571,
+      "stars": 0,
+      "web": ""
+    },
+    "202": {
+      "name": "La Bodega de Miguel",
+      "location": "Gijón",
+      "lat": 43.538425,
+      "lon": -5.656285,
+      "stars": 0,
+      "web": ""
+    },
+    "203": {
+      "name": "Casa Seín",
+      "location": "Oriente de Asturias",
+      "lat": 43.375972,
+      "lon": -4.518942,
+      "stars": 0,
+      "web": ""
+    },
+    "204": {
+      "name": "La Paloma",
+      "location": "Oviedo",
+      "lat": 43.364924,
+      "lon": -5.853253,
+      "stars": 0,
+      "web": ""
+    },
+    "205": {
+      "name": "El Tiro",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.362352,
+      "lon": -6.070507,
+      "stars": 0,
+      "web": ""
+    },
+    "206": {
+      "name": "Al Baile la Temprana",
+      "location": "Oviedo",
+      "lat": 43.361351,
+      "lon": -5.841283,
+      "stars": 0,
+      "web": ""
+    },
+    "207": {
+      "name": "La Casa de las Camelias",
+      "location": "Comarca Vaqueira",
+      "lat": 43.556666,
+      "lon": -6.463837,
+      "stars": 0,
+      "web": ""
+    },
+    "208": {
+      "name": "Riu Calabres",
+      "location": "Oriente de Asturias",
+      "lat": 43.425279,
+      "lon": -4.858841,
+      "stars": 0,
+      "web": ""
+    },
+    "209": {
+      "name": "El Pigüeña",
+      "location": "Oviedo",
+      "lat": 43.364034,
+      "lon": -5.844113,
+      "stars": 0,
+      "web": ""
+    },
+    "210": {
+      "name": "Quinta del Infanzón",
+      "location": "Gijón",
+      "lat": 43.545984,
+      "lon": -5.664134,
+      "stars": 0,
+      "web": ""
+    },
+    "211": {
+      "name": "La Pomarada",
+      "location": "Valle del Nalón",
+      "lat": 43.236721,
+      "lon": -5.5061077,
+      "stars": 0,
+      "web": ""
+    },
+    "212": {
+      "name": "Sidrería Yumay",
+      "location": "Comarca Avilés",
+      "lat": 43.53979,
+      "lon": -5.902869,
+      "stars": 0,
+      "web": ""
+    },
+    "213": {
+      "name": "Vinoteo",
+      "location": "Oviedo",
+      "lat": 43.3662,
+      "lon": -5.8538,
+      "stars": 0,
+      "web": ""
+    },
+    "214": {
+      "name": "La Arquiella",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.507787,
+      "lon": -6.693206,
+      "stars": 0,
+      "web": ""
+    },
+    "215": {
+      "name": "Casa Laureano",
+      "location": "Comarca de la Sidra",
+      "lat": 43.484293,
+      "lon": -5.273449,
+      "stars": 0,
+      "web": ""
+    },
+    "216": {
+      "name": "El Gato Negro",
+      "location": "Oviedo",
+      "lat": 43.361343,
+      "lon": -5.843263,
+      "stars": 0,
+      "web": ""
+    },
+    "217": {
+      "name": "Fayacaba",
+      "location": "Comarca de la Sidra",
+      "lat": 43.308305,
+      "lon": -5.518789,
+      "stars": 0,
+      "web": ""
+    },
+    "218": {
+      "name": "Nenyuri",
+      "location": "Valle del Nalón",
+      "lat": 43.296179,
+      "lon": -5.684955,
+      "stars": 0,
+      "web": ""
+    },
+    "219": {
+      "name": "Benidorm",
+      "location": "Oriente de Asturias",
+      "lat": 43.3613883,
+      "lon": -5.3049545,
+      "stars": 0,
+      "web": ""
+    },
+    "220": {
+      "name": "La Casona del Padrún",
+      "location": "Montaña Central",
+      "lat": 43.288442,
+      "lon": -5.810632,
+      "stars": 0,
+      "web": ""
+    },
+    "221": {
+      "name": "La Cuadrina de Tanislao",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.27991,
+      "lon": -6.024732,
+      "stars": 0,
+      "web": ""
+    },
+    "222": {
+      "name": "Mirador Embalse Alfilorios",
+      "location": "Montaña Central",
+      "lat": 43.29428,
+      "lon": -5.90923,
+      "stars": 0,
+      "web": ""
+    },
+    "223": {
+      "name": "Restaurante Sotres",
+      "location": "Oriente de Asturias",
+      "lat": 43.232619,
+      "lon": -4.745584,
+      "stars": 0,
+      "web": ""
+    },
+    "224": {
+      "name": "Arcimboldo",
+      "location": "Oviedo",
+      "lat": 43.355014,
+      "lon": -5.861083,
+      "stars": 0,
+      "web": ""
+    },
+    "225": {
+      "name": "Llagar El Quesu",
+      "location": "Comarca del Nora",
+      "lat": 43.396426,
+      "lon": -5.773346,
+      "stars": 0,
+      "web": ""
+    },
+    "226": {
+      "name": "El Fresno",
+      "location": "Valle del Nalón",
+      "lat": 43.201549,
+      "lon": -5.468169,
+      "stars": 0,
+      "web": ""
+    },
+    "227": {
+      "name": "Entreviñes",
+      "location": "Oriente de Asturias",
+      "lat": 43.4868531,
+      "lon": -5.2704048,
+      "stars": 0,
+      "web": ""
+    },
+    "228": {
+      "name": "El Retiro",
+      "location": "Pancar, Llanes",
+      "lat": 43.412392,
+      "lon": -4.76468,
+      "stars": 1,
+      "web": ""
+    },
+    "229": {
+      "name": "María Manuela Bistró",
+      "location": "Oriente de Asturias",
+      "lat": 43.463926,
+      "lon": -5.057483,
+      "stars": 0,
+      "web": ""
+    },
+    "230": {
+      "name": "Sala del Buen Yantar",
+      "location": "Bajo Nalón",
+      "lat": 43.4885769,
+      "lon": -6.1127041,
+      "stars": 0,
+      "web": ""
+    },
+    "231": {
+      "name": "La Cabaña",
+      "location": "Valle del Nalón",
+      "lat": 43.275475,
+      "lon": -5.60625,
+      "stars": 0,
+      "web": ""
+    },
+    "232": {
+      "name": "El Rincón de Don Pelayo",
+      "location": "Oriente de Asturias",
+      "lat": 43.307624,
+      "lon": -5.054079,
+      "stars": 0,
+      "web": ""
+    },
+    "233": {
+      "name": "La Pista",
+      "location": "Fuentes del Narcea",
+      "lat": 43.177431,
+      "lon": -6.549839,
+      "stars": 0,
+      "web": ""
+    },
+    "234": {
+      "name": "El Comedor",
+      "location": "Oriente de Asturias",
+      "lat": 43.350248,
+      "lon": -5.130924,
+      "stars": 0,
+      "web": ""
+    },
+    "235": {
+      "name": "Atalaya",
+      "location": "Oriente de Asturias",
+      "lat": 43.346772,
+      "lon": -5.308232,
+      "stars": 0,
+      "web": ""
+    },
+    "236": {
+      "name": "Marisol",
+      "location": "Comarca Vaqueira",
+      "lat": 43.544226,
+      "lon": -6.527682,
+      "stars": 0,
+      "web": ""
+    },
+    "237": {
+      "name": "El Trasgu",
+      "location": "Comarca Vaqueira",
+      "lat": 43.545004,
+      "lon": -6.534822,
+      "stars": 0,
+      "web": ""
+    },
+    "238": {
+      "name": "La Dársena de Luarca",
+      "location": "Comarca Vaqueira",
+      "lat": 43.545438,
+      "lon": -6.531987,
+      "stars": 0,
+      "web": ""
+    },
+    "239": {
+      "name": "El Tixileiro",
+      "location": "Fuentes del Narcea",
+      "lat": 42.9568926,
+      "lon": -6.6667449,
+      "stars": 0,
+      "web": ""
+    },
+    "240": {
+      "name": "El Castelo",
+      "location": "Oscos-Eo",
+      "lat": 43.550254,
+      "lon": -7.0056347,
+      "stars": 0,
+      "web": ""
+    },
+    "241": {
+      "name": "Crespo's",
+      "location": "Valle del Nalón",
+      "lat": 43.276034,
+      "lon": -5.591873,
+      "stars": 0,
+      "web": ""
+    },
+    "242": {
+      "name": "Casa Fausto",
+      "location": "Oviedo",
+      "lat": 43.37783,
+      "lon": -5.795602,
+      "stars": 0,
+      "web": ""
+    },
+    "243": {
+      "name": "La Casa Pompeyana",
+      "location": "Gijón",
+      "lat": 43.53846,
+      "lon": -5.670936,
+      "stars": 0,
+      "web": ""
+    },
+    "244": {
+      "name": "Torremar",
+      "location": "Gijón",
+      "lat": 43.538102,
+      "lon": -5.649546,
+      "stars": 0,
+      "web": ""
+    },
+    "245": {
+      "name": "La Espiga",
+      "location": "Cabo Peñas",
+      "lat": 43.589182,
+      "lon": -5.765296,
+      "stars": 0,
+      "web": ""
+    },
+    "246": {
+      "name": "Casa Vicente",
+      "location": "Comarca Vaqueira",
+      "lat": 43.317734,
+      "lon": -6.475552,
+      "stars": 0,
+      "web": ""
+    },
+    "247": {
+      "name": "Casa Sueño",
+      "location": "Comarca Vaqueira",
+      "lat": 43.41078,
+      "lon": -6.26554,
+      "stars": 0,
+      "web": ""
+    },
+    "248": {
+      "name": "Los Pomares",
+      "location": "Gijón",
+      "lat": 43.536547,
+      "lon": -5.674752,
+      "stars": 0,
+      "web": ""
+    },
+    "249": {
+      "name": "Las Delicias",
+      "location": "Gijón",
+      "lat": 43.533118,
+      "lon": -5.618908,
+      "stars": 0,
+      "web": ""
+    },
+    "250": {
+      "name": "La Hacienda de la Llorea Golf",
+      "location": "Gijón",
+      "lat": 43.518909,
+      "lon": -5.578756,
+      "stars": 0,
+      "web": ""
+    },
+    "251": {
+      "name": "Los Patios",
+      "location": "Gijón",
+      "lat": 43.543742,
+      "lon": -5.663321,
+      "stars": 0,
+      "web": ""
+    },
+    "252": {
+      "name": "Montañés",
+      "location": "Oviedo",
+      "lat": 43.367723,
+      "lon": -5.839234,
+      "stars": 0,
+      "web": ""
+    },
+    "253": {
+      "name": "Sibariz",
+      "location": "Ribadesella",
+      "lat": 43.4631599,
+      "lon": -5.0853208,
+      "stars": 0,
+      "web": ""
+    },
+    "254": {
+      "name": "Feleches",
+      "location": "Comarca del Nora",
+      "lat": 43.38599,
+      "lon": -5.590387,
+      "stars": 0,
+      "web": ""
+    },
+    "255": {
+      "name": "El Manquín",
+      "location": "Comarca de la Sidra",
+      "lat": 43.479698,
+      "lon": -5.435331,
+      "stars": 0,
+      "web": ""
+    },
+    "256": {
+      "name": "El Pajar",
+      "location": "Oscos-Eo",
+      "lat": 43.0203534,
+      "lon": -7.5581224,
+      "stars": 0,
+      "web": ""
+    },
+    "257": {
+      "name": "Santamarina",
+      "location": "Oscos-Eo",
+      "lat": 43.464048,
+      "lon": -7.047183,
+      "stars": 0,
+      "web": ""
+    },
+    "258": {
+      "name": "La Unión",
+      "location": "Comarca Vaqueira",
+      "lat": 43.543908,
+      "lon": -6.535838,
+      "stars": 0,
+      "web": ""
+    },
+    "259": {
+      "name": "Villuir",
+      "location": "Comarca Vaqueira",
+      "lat": 43.533783,
+      "lon": -6.569417,
+      "stars": 0,
+      "web": ""
+    },
+    "260": {
+      "name": "Mesón la Granda",
+      "location": "Comarca Vaqueira",
+      "lat": 43.545069,
+      "lon": -6.394123,
+      "stars": 0,
+      "web": ""
+    },
+    "261": {
+      "name": "Palacio de Merás",
+      "location": "Comarca Vaqueira",
+      "lat": 43.333612,
+      "lon": -6.416713,
+      "stars": 0,
+      "web": ""
+    },
+    "262": {
+      "name": "Casa Pertierra",
+      "location": "Comarca Vaqueira",
+      "lat": 43.291842,
+      "lon": -6.410928,
+      "stars": 0,
+      "web": ""
+    },
+    "263": {
+      "name": "Casa Herminia",
+      "location": "Comarca Vaqueira",
+      "lat": 43.336403,
+      "lon": -6.525519,
+      "stars": 0,
+      "web": ""
+    },
+    "264": {
+      "name": "La Tevergana",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.160342,
+      "lon": -6.096188,
+      "stars": 0,
+      "web": ""
+    },
+    "265": {
+      "name": "Peñalba",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.5378849,
+      "lon": -7.025223,
+      "stars": 0,
+      "web": ""
+    },
+    "266": {
+      "name": "Casa Paulino",
+      "location": "Oscos-Eo",
+      "lat": 43.360087,
+      "lon": -7.109354,
+      "stars": 0,
+      "web": ""
+    },
+    "267": {
+      "name": "Prendes",
+      "location": "Cabo Peñas",
+      "lat": 43.558388,
+      "lon": -5.751433,
+      "stars": 0,
+      "web": ""
+    },
+    "268": {
+      "name": "El Rancho",
+      "location": "Bajo Nalón",
+      "lat": 43.531986,
+      "lon": -6.044184,
+      "stars": 0,
+      "web": ""
+    },
+    "269": {
+      "name": "Casona de Lolo",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.066032,
+      "lon": -6.257481,
+      "stars": 0,
+      "web": ""
+    },
+    "270": {
+      "name": "El Carión",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.093654,
+      "lon": -6.257795,
+      "stars": 0,
+      "web": ""
+    },
+    "271": {
+      "name": "Jarana",
+      "location": "Comarca del Nora",
+      "lat": 43.3861187,
+      "lon": -5.6900427,
+      "stars": 0,
+      "web": ""
+    },
+    "272": {
+      "name": "San Miguel",
+      "location": "Comarca del Nora",
+      "lat": 43.389617,
+      "lon": -5.746902,
+      "stars": 0,
+      "web": ""
+    },
+    "273": {
+      "name": "El Bodegón de Güela",
+      "location": "Comarca del Nora",
+      "lat": 43.409202,
+      "lon": -5.814032,
+      "stars": 0,
+      "web": ""
+    },
+    "274": {
+      "name": "La Cepa de Asturias",
+      "location": "Comarca del Nora",
+      "lat": 43.38277,
+      "lon": -5.745,
+      "stars": 0,
+      "web": ""
+    },
+    "275": {
+      "name": "La Laguna del Río III",
+      "location": "Valle del Nalón",
+      "lat": 43.288545,
+      "lon": -5.637957,
+      "stars": 0,
+      "web": ""
+    },
+    "276": {
+      "name": "Casa La Conda",
+      "location": "Valle del Nalón",
+      "lat": 43.287746,
+      "lon": -5.638791,
+      "stars": 0,
+      "web": ""
+    },
+    "277": {
+      "name": "San Mamés",
+      "location": "Valle del Nalón",
+      "lat": 43.276442,
+      "lon": -5.590546,
+      "stars": 0,
+      "web": ""
+    },
+    "278": {
+      "name": "La Chopera",
+      "location": "Oriente de Asturias",
+      "lat": 43.448639,
+      "lon": -5.041022,
+      "stars": 0,
+      "web": ""
+    },
+    "279": {
+      "name": "Casa Junco",
+      "location": "Oriente de Asturias",
+      "lat": 43.380224,
+      "lon": -4.55371,
+      "stars": 0,
+      "web": ""
+    },
+    "280": {
+      "name": "La Casa Abajo",
+      "location": "Oriente de Asturias",
+      "lat": 43.385043,
+      "lon": -4.570294,
+      "stars": 0,
+      "web": ""
+    },
+    "281": {
+      "name": "De Miguel",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.389058,
+      "lon": -6.068431,
+      "stars": 0,
+      "web": ""
+    },
+    "282": {
+      "name": "Mil Sabores",
+      "location": "Bajo Nalón",
+      "lat": 43.490601,
+      "lon": -6.11243,
+      "stars": 0,
+      "web": ""
+    },
+    "283": {
+      "name": "La Casona de Mestas",
+      "location": "Oriente de Asturias",
+      "lat": 43.20613,
+      "lon": -5.194838,
+      "stars": 0,
+      "web": ""
+    },
+    "284": {
+      "name": "Casa Maruja",
+      "location": "Oriente de Asturias",
+      "lat": 43.619208,
+      "lon": -5.793274,
+      "stars": 0,
+      "web": ""
+    },
+    "285": {
+      "name": "La Tahona",
+      "location": "Oriente de Asturias",
+      "lat": 43.33165,
+      "lon": -4.692894,
+      "stars": 0,
+      "web": ""
+    },
+    "286": {
+      "name": "El Halcón by Ramón Celorio",
+      "location": "Oriente de Asturias",
+      "lat": 43.411838,
+      "lon": -5.228135,
+      "stars": 0,
+      "web": ""
+    },
+    "287": {
+      "name": "El Tonel de Gigi",
+      "location": "Oriente de Asturias",
+      "lat": 43.389445,
+      "lon": -5.186034,
+      "stars": 0,
+      "web": ""
+    },
+    "288": {
+      "name": "La Gran Taberna",
+      "location": "Oviedo",
+      "lat": 43.362286,
+      "lon": -5.845194,
+      "stars": 0,
+      "web": ""
+    },
+    "289": {
+      "name": "La Corte de Pelayo",
+      "location": "Oviedo",
+      "lat": 43.361688,
+      "lon": -5.847849,
+      "stars": 0,
+      "web": ""
+    },
+    "290": {
+      "name": "La Mar y Morena",
+      "location": "Oviedo",
+      "lat": 43.363562,
+      "lon": -5.844583,
+      "stars": 0,
+      "web": ""
+    },
+    "291": {
+      "name": "Tupas",
+      "location": "Oviedo",
+      "lat": 43.373052,
+      "lon": -5.830047,
+      "stars": 0,
+      "web": ""
+    },
+    "292": {
+      "name": "Marcelino Pan y Vino",
+      "location": "Oviedo",
+      "lat": 43.36573,
+      "lon": -5.85201,
+      "stars": 0,
+      "web": ""
+    },
+    "293": {
+      "name": "El Ático",
+      "location": "Oviedo",
+      "lat": 43.36277,
+      "lon": -5.856584,
+      "stars": 0,
+      "web": ""
+    },
+    "294": {
+      "name": "Buenos Aires",
+      "location": "Oviedo",
+      "lat": 43.382113,
+      "lon": -5.85522,
+      "stars": 0,
+      "web": ""
+    },
+    "295": {
+      "name": "El Bodegón de Teatinos",
+      "location": "Oviedo",
+      "lat": 43.371231,
+      "lon": -5.835299,
+      "stars": 0,
+      "web": ""
+    },
+    "296": {
+      "name": "El Llagar de Colloto",
+      "location": "Oviedo",
+      "lat": 43.377331,
+      "lon": -5.800039,
+      "stars": 0,
+      "web": ""
+    },
+    "297": {
+      "name": "Casa Amparo",
+      "location": "Oviedo",
+      "lat": 43.359845,
+      "lon": -5.846359,
+      "stars": 0,
+      "web": ""
+    },
+    "298": {
+      "name": "Carulo",
+      "location": "Oviedo",
+      "lat": 43.362938,
+      "lon": -5.845674,
+      "stars": 0,
+      "web": ""
+    },
+    "299": {
+      "name": "Palacio de Asturias",
+      "location": "Oviedo",
+      "lat": 43.350277,
+      "lon": -5.833333,
+      "stars": 0,
+      "web": ""
+    },
+    "300": {
+      "name": "El Acebo",
+      "location": "Oviedo",
+      "lat": 43.357325,
+      "lon": -5.870482,
+      "stars": 0,
+      "web": ""
+    },
+    "301": {
+      "name": "Casa Laure",
+      "location": "Oviedo",
+      "lat": 43.360982,
+      "lon": -5.843796,
+      "stars": 0,
+      "web": ""
+    },
+    "302": {
+      "name": "El Fartuquín",
+      "location": "Oviedo",
+      "lat": 43.359428,
+      "lon": -5.843375,
+      "stars": 0,
+      "web": ""
+    },
+    "303": {
+      "name": "El Asador de Aranda",
+      "location": "Oviedo",
+      "lat": 43.36364,
+      "lon": -5.844381,
+      "stars": 0,
+      "web": ""
+    },
+    "304": {
+      "name": "El Tizón",
+      "location": "Oviedo",
+      "lat": 43.365194,
+      "lon": -5.848935,
+      "stars": 0,
+      "web": ""
+    },
+    "305": {
+      "name": "Jorge",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.564419,
+      "lon": -6.645901,
+      "stars": 0,
+      "web": ""
+    },
+    "306": {
+      "name": "La Cofradía",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.56456,
+      "lon": -6.6467714,
+      "stars": 0,
+      "web": ""
+    },
+    "307": {
+      "name": "Casa Angelón",
+      "location": "Comarca de la Sidra",
+      "lat": 43.361206,
+      "lon": -5.509679,
+      "stars": 0,
+      "web": ""
+    },
+    "308": {
+      "name": "La Panoya",
+      "location": "Montaña Central",
+      "lat": 43.217552,
+      "lon": -5.818205,
+      "stars": 0,
+      "web": ""
+    },
+    "309": {
+      "name": "Asador Riegu",
+      "location": "Oriente de Asturias",
+      "lat": 43.396204,
+      "lon": -4.672331,
+      "stars": 0,
+      "web": ""
+    },
+    "310": {
+      "name": "Sablón",
+      "location": "Oriente de Asturias",
+      "lat": 43.422326,
+      "lon": -4.752548,
+      "stars": 0,
+      "web": ""
+    },
+    "311": {
+      "name": "Kaype",
+      "location": "Oriente de Asturias",
+      "lat": 43.43542,
+      "lon": -4.824863,
+      "stars": 0,
+      "web": ""
+    },
+    "312": {
+      "name": "Peña Mea",
+      "location": "Comarca del Nora",
+      "lat": 43.434154,
+      "lon": -5.871149,
+      "stars": 0,
+      "web": ""
+    },
+    "313": {
+      "name": "Centroelena",
+      "location": "Comarca del Nora",
+      "lat": 43.421461,
+      "lon": -5.824753,
+      "stars": 0,
+      "web": ""
+    },
+    "314": {
+      "name": "Royal",
+      "location": "Comarca del Nora",
+      "lat": 43.477145,
+      "lon": -5.847739,
+      "stars": 0,
+      "web": ""
+    },
+    "315": {
+      "name": "La Venta del Jamón",
+      "location": "Comarca del Nora",
+      "lat": 43.41645,
+      "lon": -5.796963,
+      "stars": 0,
+      "web": ""
+    },
+    "316": {
+      "name": "Sidrería Mercadiellu",
+      "location": "Montaña Central",
+      "lat": 43.106541,
+      "lon": -5.819075,
+      "stars": 0,
+      "web": ""
+    },
+    "317": {
+      "name": "La Boca'l Fraile",
+      "location": "Montaña Central",
+      "lat": 43.158612,
+      "lon": -5.829084,
+      "stars": 0,
+      "web": ""
+    },
+    "318": {
+      "name": "Santa Cristina",
+      "location": "Montaña Central",
+      "lat": 43.128027,
+      "lon": -5.805589,
+      "stars": 0,
+      "web": ""
+    },
+    "319": {
+      "name": "Prau La Chalana",
+      "location": "Valle del Nalón",
+      "lat": 43.247516,
+      "lon": -5.562709,
+      "stars": 0,
+      "web": ""
+    },
+    "320": {
+      "name": "La Cabaña de Conce",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.413876,
+      "lon": -5.969047,
+      "stars": 0,
+      "web": ""
+    },
+    "321": {
+      "name": "Olimar",
+      "location": "Valle del Nalón",
+      "lat": 43.309322,
+      "lon": -5.69127,
+      "stars": 0,
+      "web": ""
+    },
+    "322": {
+      "name": "Ca' Pachín",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.319207,
+      "lon": -6.169221,
+      "stars": 0,
+      "web": ""
+    },
+    "323": {
+      "name": "La Playa de Luanco",
+      "location": "Cabo Peñas",
+      "lat": 43.619156,
+      "lon": -5.788582,
+      "stars": 0,
+      "web": ""
+    },
+    "324": {
+      "name": "Pradera Campanal",
+      "location": "Cabo Peñas",
+      "lat": 43.605505,
+      "lon": -5.820354,
+      "stars": 0,
+      "web": ""
+    },
+    "325": {
+      "name": "As de Picas",
+      "location": "Gijón",
+      "lat": 43.539753,
+      "lon": -5.662465,
+      "stars": 0,
+      "web": ""
+    },
+    "326": {
+      "name": "Amalur",
+      "location": "Gijón",
+      "lat": 43.540974,
+      "lon": -5.643535,
+      "stars": 0,
+      "web": ""
+    },
+    "327": {
+      "name": "Dindurra",
+      "location": "Gijón",
+      "lat": 43.5393867,
+      "lon": -5.6617031,
+      "stars": 0,
+      "web": ""
+    },
+    "328": {
+      "name": "Tex",
+      "location": "Gijón",
+      "lat": 43.534931,
+      "lon": -5.668688,
+      "stars": 0,
+      "web": ""
+    },
+    "329": {
+      "name": "Hotel Asturias",
+      "location": "Gijón",
+      "lat": 43.545222,
+      "lon": -5.662388,
+      "stars": 0,
+      "web": ""
+    },
+    "330": {
+      "name": "El Rinconín de Deva",
+      "location": "Gijón",
+      "lat": 43.54158,
+      "lon": -5.600495,
+      "stars": 0,
+      "web": ""
+    },
+    "331": {
+      "name": "Café Plaza",
+      "location": "Gijón",
+      "lat": 43.540068,
+      "lon": -5.657393,
+      "stars": 0,
+      "web": ""
+    },
+    "332": {
+      "name": "La Panza es Primero",
+      "location": "Gijón",
+      "lat": 43.539134,
+      "lon": -5.649194,
+      "stars": 0,
+      "web": ""
+    },
+    "333": {
+      "name": "La Tonada de La Guía",
+      "location": "Gijón",
+      "lat": 43.533896,
+      "lon": -5.634365,
+      "stars": 0,
+      "web": ""
+    },
+    "334": {
+      "name": "La Tonada",
+      "location": "Gijón",
+      "lat": 43.520861,
+      "lon": -5.672179,
+      "stars": 0,
+      "web": ""
+    },
+    "335": {
+      "name": "La Zamorana",
+      "location": "Gijón",
+      "lat": 43.534636,
+      "lon": -5.658127,
+      "stars": 0,
+      "web": ""
+    },
+    "336": {
+      "name": "La Casa del Parque",
+      "location": "Gijón",
+      "lat": 43.535517,
+      "lon": -5.641246,
+      "stars": 0,
+      "web": ""
+    },
+    "337": {
+      "name": "El Antiguo",
+      "location": "Gijón",
+      "lat": 43.544722,
+      "lon": -5.66294,
+      "stars": 0,
+      "web": ""
+    },
+    "338": {
+      "name": "Las Médulas",
+      "location": "Gijón",
+      "lat": 43.538958,
+      "lon": -5.654069,
+      "stars": 0,
+      "web": ""
+    },
+    "339": {
+      "name": "El Fartón de la Guía",
+      "location": "Gijón",
+      "lat": 43.533515,
+      "lon": -5.633752,
+      "stars": 0,
+      "web": ""
+    },
+    "340": {
+      "name": "Casa Suncia",
+      "location": "Gijón",
+      "lat": 43.533917,
+      "lon": -5.620127,
+      "stars": 0,
+      "web": ""
+    },
+    "341": {
+      "name": "La Habana",
+      "location": "Gijón",
+      "lat": 43.536805,
+      "lon": -5.684017,
+      "stars": 0,
+      "web": ""
+    },
+    "342": {
+      "name": "Casa Ovidio",
+      "location": "Comarca Avilés",
+      "lat": 43.539169,
+      "lon": -5.882527,
+      "stars": 0,
+      "web": ""
+    },
+    "343": {
+      "name": "El Cafetín de Lastres",
+      "location": "Comarca de la Sidra",
+      "lat": 43.512938,
+      "lon": -5.269192,
+      "stars": 0,
+      "web": ""
+    },
+    "344": {
+      "name": "Marqués de la Moral",
+      "location": "Comarca Avilés",
+      "lat": 43.56659,
+      "lon": -6.007797,
+      "stars": 0,
+      "web": ""
+    },
+    "345": {
+      "name": "Los Arcos",
+      "location": "Oriente de Asturias",
+      "lat": 43.351311,
+      "lon": -5.128835,
+      "stars": 0,
+      "web": ""
+    },
+    "346": {
+      "name": "Los Robles",
+      "location": "Oriente de Asturias",
+      "lat": 43.349992,
+      "lon": -5.128654,
+      "stars": 0,
+      "web": ""
+    },
+    "347": {
+      "name": "La Posada de Granda",
+      "location": "Oriente de Asturias",
+      "lat": 43.405369,
+      "lon": -5.120137,
+      "stars": 0,
+      "web": ""
+    },
+    "348": {
+      "name": "Peña Castil",
+      "location": "Oriente de Asturias",
+      "lat": 43.231196,
+      "lon": -4.751737,
+      "stars": 0,
+      "web": ""
+    },
+    "349": {
+      "name": "La Perdiz",
+      "location": "Oriente de Asturias",
+      "lat": 43.231511,
+      "lon": -4.73702,
+      "stars": 0,
+      "web": ""
+    },
+    "350": {
+      "name": "Prado",
+      "location": "Parque Histórico del Navia",
+      "lat": 43.429261,
+      "lon": -6.817891,
+      "stars": 0,
+      "web": ""
+    },
+    "351": {
+      "name": "La Tartulla",
+      "location": "Camín Real de la Mesa",
+      "lat": 43.262479,
+      "lon": -6.195951,
+      "stars": 0,
+      "web": ""
+    },
+    "352": {
+      "name": "Casa Lin",
+      "location": "Comarca Avilés",
+      "lat": 43.560029,
+      "lon": -5.922356,
+      "stars": 0,
+      "web": ""
+    },
+    "353": {
+      "name": "Casa Tataguyo",
+      "location": "Comarca Avilés",
+      "lat": 43.552905,
+      "lon": -5.926902,
+      "stars": 0,
+      "web": ""
+    },
+    "354": {
+      "name": "Trattoria Mascareta",
+      "location": "Comarca Avilés",
+      "lat": 43.554219,
+      "lon": -5.924678,
+      "stars": 0,
+      "web": ""
+    },
+    "355": {
+      "name": "Sal de Vinos",
+      "location": "Comarca Avilés",
+      "lat": 43.557642,
+      "lon": -5.921248,
+      "stars": 0,
+      "web": ""
+    },
+    "356": {
+      "name": "La Capilla",
+      "location": "Comarca Avilés",
+      "lat": 43.554786,
+      "lon": -5.923189,
+      "stars": 0,
+      "web": ""
+    },
+    "357": {
+      "name": "Parque Empresarial",
+      "location": "Comarca Avilés",
+      "lat": 43.555982,
+      "lon": -5.912965,
+      "stars": 0,
+      "web": ""
+    },
+    "358": {
+      "name": "Alkasbah",
+      "location": "Comarca Avilés",
+      "lat": 43.555748,
+      "lon": -5.920773,
+      "stars": 0,
+      "web": ""
+    },
+    "359": {
+      "name": "Teyka",
+      "location": "Montaña Central",
+      "lat": 43.16991,
+      "lon": -5.739112,
+      "stars": 0,
+      "web": ""
+    },
+    "360": {
+      "name": "La Nueva Allandesa",
+      "location": "Comarca Vaqueira",
+      "lat": 43.271597,
+      "lon": -6.610493,
+      "stars": 0,
+      "web": ""
+    },
+    "361": {
+      "name": "Monte",
+      "location": "San Feliz",
+      "lat": 43.168666742885144,
+      "lon": -5.82277853346017,
+      "stars": 1,
+      "web": "https://www.montesanfeliz.com/"
+    },
+    "362": {
+      "name": "Ferpel",
+      "location": "Ortiguera",
+      "lat": 43.559186584739585,
+      "lon": -6.744753482745152,
+      "stars": 1,
+      "web": "http://ferpelgastronomico.com/"
+    },
+    "363": {
+      "name": "Ayalga",
+      "location": "Ribadesella",
+      "lat": 43.465121180964424,
+      "lon": -5.067836163990437,
+      "stars": 1,
+      "web": "https://www.ayalgavillarosario.com/"
+    },
+    "364": {
+      "name": "La Genuina de Cimadevilla",
+      "location": "Oviedo",
+      "lat": 43.36079300355605,
+      "lon": -5.844432255406267,
+      "stars": 0,
+      "web": "https://lagenuinaarroceria.es/"
+    },
+    "365": {
+      "name": "Gloria - Esther y Nacho Manzano",
+      "location": "Oviedo",
+      "lat": 43.36382299782278,
+      "lon": -5.856668972332294,
+      "stars": 0,
+      "web": "https://www.estasengloria.com/"
+    },
+    "366": {
+      "name": "Gloria - Esther y Nacho Manzano",
+      "location": "Gijon",
+      "lat": 43.542446486683346,
+      "lon": -5.663526169686959,
+      "stars": 0,
+      "web": "https://www.estasengloria.com/"
+    },
+    "367": {
+      "name": "Casa Xisco",
+      "location": "Llanes",
+      "lat": 43.390798360638065,
+      "lon": -4.95777736063303,
+      "stars": 0,
+      "web": "https://www.casaxico.es/"
+    }
+  },
+  "beaches": {
+    "0": {
+      "name": "Playa de Frejulfe",
+      "location": "Navia",
+      "lat": 43.559242957874275,
+      "lon": -6.678178213857105
+    },
+    "1": {
+      "name": "Playa de Barayo",
+      "location": "Valdes",
+      "lat": 43.5611299946517,
+      "lon": -6.6147227109512485
+    },
+    "2": {
+      "name": "Playa del Silencio",
+      "location": "Cudillero",
+      "lat": 43.559242957874275,
+      "lon": -6.678178213857105
+    },
+    "3": {
+      "name": "Playa de Aguilar",
+      "location": "Muros del Nalon",
+      "lat": 43.55544353127032,
+      "lon": -6.117195882189477
+    },
+    "4": {
+      "name": "Playa de Bayas",
+      "location": "Soto del Barco",
+      "lat": 43.57438664365277,
+      "lon": -6.046096056580671
+    },
+    "5": {
+      "name": "Playa de Xago",
+      "location": "Gozon",
+      "lat": 43.60443984049431,
+      "lon": -5.919146681173571
+    },
+    "6": {
+      "name": "Playa de San Lorenzo",
+      "location": "Gijon",
+      "lat": 43.54110012380463,
+      "lon": -5.649959631550893
+    },
+    "7": {
+      "name": "Playa de la Ñora",
+      "location": "Villaviciosa",
+      "lat": 43.547702158403915,
+      "lon": -5.590716761891025
+    },
+    "8": {
+      "name": "Playa de Rodiles",
+      "location": "Villaviciosa",
+      "lat": 43.53375537974193,
+      "lon": -5.3799542178206154
+    },
+    "9": {
+      "name": "Playa de Santa Marina",
+      "location": "Ribadesella",
+      "lat": 43.46582951809735,
+      "lon": -5.066086551093735
+    },
+    "10": {
+      "name": "Playa de Guadamía",
+      "location": "Llanes",
+      "lat": 43.45770440061257,
+      "lon": -4.9814698018042485
+    },
+    "11": {
+      "name": "Playa de Torimbia",
+      "location": "Llanes",
+      "lat": 43.44251780581913,
+      "lon": -4.852247726962976
+    },
+    "12": {
+      "name": "Playa de Gulpiyuri",
+      "location": "Llanes",
+      "lat": 43.44752158828277,
+      "lon": -4.885978685119936
+    },
+    "13": {
+      "name": "Playa de la Ballota",
+      "location": "Llaanes",
+      "lat": 43.41240369887427,
+      "lon": -4.713808116079639
+    },
+    "14": {
+      "name": "Playa de la Franca",
+      "location": "Ribadeva",
+      "lat": 43.39420936940198,
+      "lon": -4.574860567947126
+    }
+  },
+  "museums": {
+    "0": {
+      "name": "Centro de Recepción de Visitantes 'Casa Dago'",
+      "location": "Cangas de Onís",
+      "lat": 43.351037,
+      "lon": -5.125558,
+      "web": ""
+    },
+    "1": {
+      "name": "Juan Pérez Villamil Ethnographic Museum",
+      "location": "Navia",
+      "lat": 43.563251,
+      "lon": -6.64687,
+      "web": ""
+    },
+    "2": {
+      "name": "Mazonovo Mills Museum",
+      "location": "Taramundi",
+      "lat": 43.356869,
+      "lon": -7.106511,
+      "web": ""
+    },
+    "3": {
+      "name": "Chao Samartín",
+      "location": "Grandas de Salime",
+      "lat": 43.1985,
+      "lon": -6.925786,
+      "web": ""
+    },
+    "4": {
+      "name": "Fuentes del Narcea, Degaña e Ibias Nature Park Educational Exhibition on Nature",
+      "location": "Ibias",
+      "lat": 43.039436,
+      "lon": -6.86924,
+      "web": ""
+    },
+    "5": {
+      "name": "Centro de Interpretación e Información del Parque Natural de las Fuentes del Narcea, Degaña e Ibias 'Casa Florencio'",
+      "location": "Degaña",
+      "lat": 43.19589612764483,
+      "lon": -6.54275551537512,
+      "web": ""
+    },
+    "6": {
+      "name": "Fuentes del Narcea, Degaña e Ibias Nature Park House",
+      "location": "Cangas del Narcea",
+      "lat": 43.194993,
+      "lon": -6.544035,
+      "web": ""
+    },
+    "7": {
+      "name": "Cangas del Narcea Wine Museum",
+      "location": "Cangas del Narcea",
+      "lat": 43.168832,
+      "lon": -6.54353,
+      "web": ""
+    },
+    "8": {
+      "name": "Omaña Mansion",
+      "location": "Cangas del Narcea",
+      "lat": 43.176922,
+      "lon": -6.551688,
+      "web": ""
+    },
+    "9": {
+      "name": "Gijón Aquarium",
+      "location": "Gijón",
+      "lat": 43.542198,
+      "lon": -5.676489,
+      "web": ""
+    },
+    "10": {
+      "name": "Gold Educational Exhibition",
+      "location": "Belmonte de Miranda",
+      "lat": 43.282892,
+      "lon": -6.218049,
+      "web": ""
+    },
+    "11": {
+      "name": "The Wood Museum",
+      "location": "Caso",
+      "lat": 43.178579,
+      "lon": -5.333501,
+      "web": ""
+    },
+    "12": {
+      "name": "Museo de la Apicultura",
+      "location": "Caso",
+      "lat": 43.203777,
+      "lon": -5.395626,
+      "web": ""
+    },
+    "13": {
+      "name": "Grandas de Salime Ethnographic Museum",
+      "location": "Grandas de Salime",
+      "lat": 43.217552,
+      "lon": -6.874403,
+      "web": ""
+    },
+    "14": {
+      "name": "The Steelworks Museum of Asturias (MUSI)",
+      "location": "Langreo",
+      "lat": 43.308876,
+      "lon": -5.687857,
+      "web": ""
+    },
+    "15": {
+      "name": "Las Ayalgas de Silviella",
+      "location": "Belmonte de Miranda",
+      "lat": 43.328954,
+      "lon": -6.211624,
+      "web": ""
+    },
+    "16": {
+      "name": "The Maritime Museum of Asturias",
+      "location": "Gozón",
+      "lat": 43.613624,
+      "lon": -5.793002,
+      "web": ""
+    },
+    "17": {
+      "name": "Glacial Wildlife Interpretation Centre",
+      "location": "Onís",
+      "lat": 43.335136,
+      "lon": -4.967544,
+      "web": ""
+    },
+    "18": {
+      "name": "Pozu Santa Bárbara",
+      "location": "Mieres",
+      "lat": 43.21389712263115,
+      "lon": -5.717301175222333,
+      "web": ""
+    },
+    "19": {
+      "name": "Espacio Portus y CI Cañones Submarinos de Avilés",
+      "location": "Avilés",
+      "lat": 43.592704,
+      "lon": -5.924995,
+      "web": ""
+    },
+    "20": {
+      "name": "Pre-Romanesque Museum of Santianes",
+      "location": "Pravia",
+      "lat": 43.502017,
+      "lon": -6.100462,
+      "web": ""
+    },
+    "21": {
+      "name": "Permanent Exhibition on the Canning Industry in Candás",
+      "location": "Carreño",
+      "lat": 43.588313,
+      "lon": -5.767383,
+      "web": ""
+    },
+    "22": {
+      "name": "Coaña Hill Fort Educational Exhibition",
+      "location": "Coaña",
+      "lat": 43.510837,
+      "lon": -6.749303,
+      "web": ""
+    },
+    "23": {
+      "name": "The Mining and Industry Museum",
+      "location": "El Entrego, San Martín del Rey Aurelio",
+      "lat": 43.288228,
+      "lon": -5.653128,
+      "web": ""
+    },
+    "24": {
+      "name": "Reception and Interpretation Centre of Asturian Pre-Romanesque Art",
+      "location": "Oviedo",
+      "lat": 43.378641,
+      "lon": -5.867362,
+      "web": ""
+    },
+    "25": {
+      "name": "Tito Bustillo Cave Art Centre",
+      "location": "Ribadesella",
+      "lat": 43.458082,
+      "lon": -5.067242,
+      "web": ""
+    },
+    "26": {
+      "name": "Teverga Prehistory Park",
+      "location": "Teverga",
+      "lat": 43.137829,
+      "lon": -6.07588,
+      "web": ""
+    },
+    "27": {
+      "name": "Atlantic Botanic Gardens",
+      "location": "Gijón",
+      "lat": 43.521502,
+      "lon": -5.615784,
+      "web": ""
+    },
+    "28": {
+      "name": "Centro del Calamar Gigante",
+      "location": "Valdés",
+      "lat": 43.541299,
+      "lon": -6.537667,
+      "web": ""
+    },
+    "29": {
+      "name": "Parque de la Vida",
+      "location": "Valdés",
+      "lat": 43.540352,
+      "lon": -6.567476,
+      "web": ""
+    },
+    "30": {
+      "name": "Jurassic Museum of Asturias (MUJA)",
+      "location": "Colunga",
+      "lat": 43.500548,
+      "lon": -5.274463,
+      "web": ""
+    },
+    "31": {
+      "name": "Evaristo Valle Museum",
+      "location": "Gijón",
+      "lat": 43.533949,
+      "lon": -5.619832,
+      "web": ""
+    },
+    "32": {
+      "name": "The Gold Museum of Asturias (MOA)",
+      "location": "Tineo",
+      "lat": 43.403299,
+      "lon": -6.543859,
+      "web": ""
+    },
+    "33": {
+      "name": "Laboral City of Culture",
+      "location": "Gijón",
+      "lat": 43.524095,
+      "lon": -5.613511,
+      "web": ""
+    },
+    "34": {
+      "name": "Grandas de Salime Dam and Hydroelectric Plant",
+      "location": "Grandas de Salime",
+      "lat": 43.237458,
+      "lon": -6.846008,
+      "web": ""
+    },
+    "35": {
+      "name": "El Gaitero Cider Factory",
+      "location": "Villaviciosa",
+      "lat": 43.493781,
+      "lon": -5.423937,
+      "web": ""
+    },
+    "36": {
+      "name": "Samuño Valley Ecomuseum and San Luis Pit",
+      "location": "Langreo",
+      "lat": 43.276161,
+      "lon": -5.677206,
+      "web": ""
+    },
+    "37": {
+      "name": "Marine Environment of Cape Peñas Visitor Reception and Interpretation Centre",
+      "location": "Gozón",
+      "lat": 43.655536,
+      "lon": -5.848463,
+      "web": ""
+    },
+    "38": {
+      "name": "Alejandro Casona Visitor Reception Centre.",
+      "location": "Cangas del Narcea",
+      "lat": 43.187153,
+      "lon": -6.631307,
+      "web": ""
+    },
+    "39": {
+      "name": "Centro de Recepción de Visitantes de Muniellos",
+      "location": "Cangas del Narcea",
+      "lat": 43.035449,
+      "lon": -6.681805,
+      "web": ""
+    },
+    "40": {
+      "name": "Muniellos Bioreserve Interpretation Centre",
+      "location": "Cangas del Narcea",
+      "lat": 43.048549,
+      "lon": -6.656486,
+      "web": ""
+    },
+    "41": {
+      "name": "Grado Ethnological Museum",
+      "location": "Grado",
+      "lat": 43.395311,
+      "lon": -6.061569,
+      "web": ""
+    },
+    "42": {
+      "name": "Coaña Hill Fort",
+      "location": "Coaña",
+      "lat": 43.511033,
+      "lon": -6.749499,
+      "web": ""
+    },
+    "43": {
+      "name": "Casa del Agua de Sobrescobio",
+      "location": "Sobrescobio",
+      "lat": 43.219239,
+      "lon": -5.45258,
+      "web": ""
+    },
+    "44": {
+      "name": "The Bread Ecomuseum",
+      "location": "Villanueva de Oscos",
+      "lat": 43.303835,
+      "lon": -6.992066,
+      "web": ""
+    },
+    "45": {
+      "name": "Historical Archives of Asturias",
+      "location": "Oviedo",
+      "lat": 43.37055,
+      "lon": -5.851186,
+      "web": ""
+    },
+    "46": {
+      "name": "The Archaeological Museum of Asturias",
+      "location": "Oviedo",
+      "lat": 43.363115,
+      "lon": -5.842337,
+      "web": ""
+    },
+    "47": {
+      "name": "Ciudadela de Celestino Solar",
+      "location": "Gijón",
+      "lat": 43.541035,
+      "lon": -5.658411,
+      "web": ""
+    },
+    "48": {
+      "name": "Dairy Ethnological Museum",
+      "location": "Morcín",
+      "lat": 43.251737,
+      "lon": -5.872311,
+      "web": ""
+    },
+    "49": {
+      "name": "The Cider Museum",
+      "location": "Nava",
+      "lat": 43.357231,
+      "lon": -5.504894,
+      "web": ""
+    },
+    "50": {
+      "name": "Indiano Archives-Emigration Museum Foundation",
+      "location": "Ribadedeva",
+      "lat": 43.373742,
+      "lon": -4.538933,
+      "web": ""
+    },
+    "51": {
+      "name": "Os Teixois Ethnographic Site",
+      "location": "Taramundi",
+      "lat": 43.341276,
+      "lon": -7.079722,
+      "web": ""
+    },
+    "52": {
+      "name": "Centro de Experiencias y Memoria de la Minería",
+      "location": "El Entrego, San Martín del Rey Aurelio",
+      "lat": 43.282019,
+      "lon": -5.623307,
+      "web": ""
+    },
+    "53": {
+      "name": "Bres Water House",
+      "location": "Taramundi",
+      "lat": 43.369375,
+      "lon": -7.06495,
+      "web": ""
+    },
+    "54": {
+      "name": "Mon Mansion",
+      "location": "San Martín de Oscos",
+      "lat": 43.269675,
+      "lon": -6.915208,
+      "web": ""
+    },
+    "55": {
+      "name": "Valle de Turón (Socavón La Rebaldana, Pozu Espinos y Pozu Fortuna)",
+      "location": "Mieres",
+      "lat": 43.213858,
+      "lon": -5.718616,
+      "web": ""
+    },
+    "56": {
+      "name": "Marquis of Sargadelos Birthplace",
+      "location": "Santa Eulalia de Oscos",
+      "lat": 43.259159,
+      "lon": -7.020318,
+      "web": ""
+    },
+    "57": {
+      "name": "La Xorenga Petroglyphs",
+      "location": "Grandas de Salime",
+      "lat": 43.185113,
+      "lon": -6.911057,
+      "web": ""
+    },
+    "58": {
+      "name": "The Idol of Peña Tú",
+      "location": "Llanes",
+      "lat": 43.393268,
+      "lon": -4.689375,
+      "web": ""
+    },
+    "59": {
+      "name": "Laboral Centre for Art and Industrial Creation",
+      "location": "Gijón",
+      "lat": 43.524517,
+      "lon": -5.611869,
+      "web": ""
+    },
+    "60": {
+      "name": "La Piedra de Filadoira Dolmen",
+      "location": "Illano",
+      "lat": 43.269351,
+      "lon": -6.348085,
+      "web": ""
+    },
+    "61": {
+      "name": "Somiedo Nature Park Reception and Interpretation Centre",
+      "location": "Somiedo",
+      "lat": 43.092379,
+      "lon": -6.256199,
+      "web": ""
+    },
+    "62": {
+      "name": "Territory of Ribadesella Museum",
+      "location": "Ribadesella",
+      "lat": 43.454421,
+      "lon": -5.105448,
+      "web": ""
+    },
+    "63": {
+      "name": "San Isidro Hill Fort",
+      "location": "San Martín de Oscos",
+      "lat": 43.303125,
+      "lon": -6.895425,
+      "web": ""
+    },
+    "64": {
+      "name": "Roman Villa of Veranes",
+      "location": "Gijón",
+      "lat": 43.484135,
+      "lon": -5.753705,
+      "web": ""
+    },
+    "65": {
+      "name": "Campo Valdés Roman Baths",
+      "location": "Gijón",
+      "lat": 43.545563,
+      "lon": -5.661243,
+      "web": ""
+    },
+    "66": {
+      "name": "Campa Torres Archaeological-Nature Park",
+      "location": "Gijón",
+      "lat": 43.56912,
+      "lon": -5.70399,
+      "web": ""
+    },
+    "67": {
+      "name": "Mount Areo Megalithic Necropolis-Burial Mounds",
+      "location": "Carreño",
+      "lat": 43.525114,
+      "lon": -5.7891,
+      "web": ""
+    },
+    "68": {
+      "name": "El Padrún Megaliths",
+      "location": "Aller",
+      "lat": 43.144948,
+      "lon": -5.779487,
+      "web": ""
+    },
+    "69": {
+      "name": "Santa Cruz Dolmen",
+      "location": "Cangas de Onis",
+      "lat": 43.352811,
+      "lon": -5.130378,
+      "web": ""
+    },
+    "70": {
+      "name": "Pradías Dolmen",
+      "location": "Ibias",
+      "lat": 43.037822,
+      "lon": -6.812172,
+      "web": ""
+    },
+    "71": {
+      "name": "Merillés Dolmen",
+      "location": "Tineo",
+      "lat": 43.27394,
+      "lon": -6.345917,
+      "web": ""
+    },
+    "72": {
+      "name": "San Chuis Hill Fort",
+      "location": "Allande",
+      "lat": 43.232154,
+      "lon": -6.596105,
+      "web": ""
+    },
+    "73": {
+      "name": "Pendía Hill Fort",
+      "location": "Boal",
+      "lat": 43.432055,
+      "lon": -6.772397,
+      "web": ""
+    },
+    "74": {
+      "name": "Castro de Os Castros",
+      "location": "Taramundi",
+      "lat": 43.358885,
+      "lon": -7.107012,
+      "web": ""
+    },
+    "75": {
+      "name": "Mohías Hill Fort",
+      "location": "Coaña",
+      "lat": 43.549508,
+      "lon": -6.747044,
+      "web": ""
+    },
+    "76": {
+      "name": "Castelón Hill Fort",
+      "location": "Illano",
+      "lat": 43.32709,
+      "lon": -6.868918,
+      "web": ""
+    },
+    "77": {
+      "name": "Castro de Cabo Blanco",
+      "location": "El Franco",
+      "lat": 43.56724,
+      "lon": -6.855908,
+      "web": ""
+    },
+    "78": {
+      "name": "Centro de Visitantes Las Montañas del Quebrantahuesos",
+      "location": "Onís",
+      "lat": 43.337098,
+      "lon": -4.975627,
+      "web": ""
+    },
+    "79": {
+      "name": "Villaviciosa Estuary Interpretation Centre",
+      "location": "Villaviciosa",
+      "lat": 43.509801,
+      "lon": -5.417068,
+      "web": ""
+    },
+    "80": {
+      "name": "Lords of the Manors Reception Center",
+      "location": "Tapia de Casariego",
+      "lat": 43.570228,
+      "lon": -6.944344,
+      "web": ""
+    },
+    "81": {
+      "name": "'Gateway to the Sea' Nalón Estuary Interpretation Centre",
+      "location": "Soto del Barco",
+      "lat": 43.556963,
+      "lon": -6.076272,
+      "web": ""
+    },
+    "82": {
+      "name": "Fishing on the River Eo Interpretation Centre",
+      "location": "San Tirso de Abres",
+      "lat": 43.41055,
+      "lon": -7.142986,
+      "web": ""
+    },
+    "83": {
+      "name": "Hórreo Interpretation Centre",
+      "location": "Ribera de Arriba",
+      "lat": 43.317469,
+      "lon": -5.887102,
+      "web": ""
+    },
+    "84": {
+      "name": "San Emeterio and Pindal Cave Interpretation Centre",
+      "location": "Ribadedeva",
+      "lat": 43.396995,
+      "lon": -4.533579,
+      "web": ""
+    },
+    "85": {
+      "name": "Centro de Interpretación del Parque Natural de Ponga",
+      "location": "Ponga",
+      "lat": 43.187897,
+      "lon": -5.164205,
+      "web": ""
+    },
+    "86": {
+      "name": "Sea Stories Reception Centre",
+      "location": "Navia",
+      "lat": 43.563325,
+      "lon": -6.647072,
+      "web": ""
+    },
+    "87": {
+      "name": "Bustiello Mining Village Interpretation Centre",
+      "location": "Mieres",
+      "lat": 43.188344,
+      "lon": -5.768397,
+      "web": ""
+    },
+    "88": {
+      "name": "Loredo Railway Educational Exhibition",
+      "location": "Mieres",
+      "lat": 43.269191,
+      "lon": -5.833237,
+      "web": ""
+    },
+    "89": {
+      "name": "La Cobertoria Pre-Romanesque Educational Exhibition",
+      "location": "Lena",
+      "lat": 43.130186,
+      "lon": -5.816022,
+      "web": ""
+    },
+    "90": {
+      "name": "La Chalana Mill Educational Exhibition",
+      "location": "Laviana",
+      "lat": 43.237043,
+      "lon": -5.555502,
+      "web": ""
+    },
+    "91": {
+      "name": "Centro de Interpretación del Cine en Asturias (CICA)",
+      "location": "Gijón",
+      "lat": 43.53967,
+      "lon": -5.662386,
+      "web": ""
+    },
+    "92": {
+      "name": "La Carriona Cemetery Interpretation Centre",
+      "location": "Avilés",
+      "lat": 43.541635,
+      "lon": -5.937529,
+      "web": ""
+    },
+    "93": {
+      "name": "Centro Interpretación Gaitero Libardón",
+      "location": "Colunga",
+      "lat": 43.430549,
+      "lon": -5.310958,
+      "web": ""
+    },
+    "94": {
+      "name": "Sueve Range Interpretation Centre",
+      "location": "Colunga",
+      "lat": 43.468818,
+      "lon": -5.234156,
+      "web": ""
+    },
+    "95": {
+      "name": "Redes Nature Park Interpretation Centre",
+      "location": "Caso",
+      "lat": 43.181786,
+      "lon": -5.342396,
+      "web": ""
+    },
+    "96": {
+      "name": "Pedro Pidal Visitor Centre",
+      "location": "Cangas de Onís",
+      "lat": 43.276944,
+      "lon": -4.983298,
+      "web": ""
+    },
+    "97": {
+      "name": "La Peña Cave Interpretation Centre",
+      "location": "Candamo",
+      "lat": 43.450294,
+      "lon": -6.073628,
+      "web": ""
+    },
+    "98": {
+      "name": "Centro de Interpretación La Casa del Lobo",
+      "location": "Belmonte de Miranda",
+      "lat": 43.2828447,
+      "lon": -6.218705600000021,
+      "web": ""
+    },
+    "99": {
+      "name": "Vía Carisa Interpretation Centre",
+      "location": "Aller",
+      "lat": 43.1431034,
+      "lon": -5.696316,
+      "web": ""
+    },
+    "100": {
+      "name": "Bosque - Jardín de la Fonte Baxa",
+      "location": "Valdés",
+      "lat": 43.547231,
+      "lon": -6.541097,
+      "web": ""
+    },
+    "101": {
+      "name": "Quirós Ethnological Museum",
+      "location": "Quirós",
+      "lat": 43.158578,
+      "lon": -5.973007,
+      "web": ""
+    },
+    "102": {
+      "name": "Railway Museum (Former Gijón Railway Station)",
+      "location": "Gijón",
+      "lat": 43.540913,
+      "lon": -5.672857,
+      "web": ""
+    },
+    "103": {
+      "name": "Sotón Pit",
+      "location": "El Entrego, San Martín del Rey Aurelio",
+      "lat": 43.280556,
+      "lon": -5.620856,
+      "web": ""
+    },
+    "104": {
+      "name": "Arnao Mine and its Zinc Factory",
+      "location": "Castrillón",
+      "lat": 43.577096,
+      "lon": -5.983522,
+      "web": ""
+    },
+    "105": {
+      "name": "La Guarida del Cunqueiru",
+      "location": "Degaña",
+      "lat": 42.95927,
+      "lon": -6.644606,
+      "web": ""
+    },
+    "106": {
+      "name": "Museo y Circuito Fernando Alonso",
+      "location": "Llanera",
+      "lat": 43.428374,
+      "lon": -5.831606,
+      "web": ""
+    },
+    "107": {
+      "name": "Eduardo Úrculo Municipal Art Gallery of Langreo",
+      "location": "Langreo",
+      "lat": 43.300743,
+      "lon": -5.686654,
+      "web": ""
+    },
+    "108": {
+      "name": "Fine Arts Museum of Asturias",
+      "location": "Oviedo",
+      "lat": 43.361928,
+      "lon": -5.844485,
+      "web": ""
+    },
+    "109": {
+      "name": "Avilés Urban History Museum",
+      "location": "Avilés",
+      "lat": 43.557253,
+      "lon": -5.921444,
+      "web": ""
+    },
+    "110": {
+      "name": "Niemeyer Centre",
+      "location": "Avilés",
+      "lat": 43.557443,
+      "lon": -5.91771,
+      "web": ""
+    },
+    "111": {
+      "name": "The Church Museum",
+      "location": "Oviedo",
+      "lat": 43.362734,
+      "lon": -5.84367,
+      "web": ""
+    },
+    "112": {
+      "name": "Chao Samartín Museum",
+      "location": "Grandas de Salime",
+      "lat": 43.198465,
+      "lon": -6.925957,
+      "web": ""
+    },
+    "113": {
+      "name": "El Marco House. Peasant House Museum",
+      "location": "San Martín de Oscos",
+      "lat": 43.226319,
+      "lon": -6.955032,
+      "web": ""
+    },
+    "114": {
+      "name": "Armando Palacio Valdés Interpretation Centre",
+      "location": "Laviana",
+      "lat": 43.235699,
+      "lon": -5.552755,
+      "web": ""
+    },
+    "115": {
+      "name": "Puppet Workshop Museum",
+      "location": "Siero",
+      "lat": 43.405932,
+      "lon": -5.646759,
+      "web": ""
+    },
+    "116": {
+      "name": "Juan Barjola Museum",
+      "location": "Gijón",
+      "lat": 43.544236,
+      "lon": -5.663748,
+      "web": ""
+    },
+    "117": {
+      "name": "Nicanor Piñole Museum",
+      "location": "Gijón",
+      "lat": 43.538115,
+      "lon": -5.664027,
+      "web": ""
+    },
+    "118": {
+      "name": "Skittles Museum of Asturias",
+      "location": "Peñamellera Baja",
+      "lat": 43.321792,
+      "lon": -4.583721,
+      "web": ""
+    },
+    "119": {
+      "name": "Candas Sculpture Centre. Antón Museum",
+      "location": "Carreño",
+      "lat": 43.590571,
+      "lon": -5.763856,
+      "web": ""
+    },
+    "120": {
+      "name": "Esquíos Ethnological Museum",
+      "location": "Taramundi",
+      "lat": 43.345409,
+      "lon": -7.091249,
+      "web": ""
+    },
+    "121": {
+      "name": "Somiedo Ecomuseum",
+      "location": "Somiedo",
+      "lat": 43.093573,
+      "lon": -6.253835,
+      "web": ""
+    },
+    "122": {
+      "name": "Tineo Museum of Sacred Art",
+      "location": "Tineo",
+      "lat": 43.335012,
+      "lon": -6.415056,
+      "web": ""
+    },
+    "123": {
+      "name": "Rural School Museum of Asturias",
+      "location": "Cabranes",
+      "lat": 43.427449,
+      "lon": -5.42417,
+      "web": ""
+    },
+    "124": {
+      "name": "Eastern Asturias Ethnological Museum",
+      "location": "Llanes",
+      "lat": 43.413054,
+      "lon": -4.799338,
+      "web": ""
+    },
+    "125": {
+      "name": "Mazonovo Ethnographic Site",
+      "location": "Santa Eulalia de Oscos",
+      "lat": 43.23512,
+      "lon": -7.013689,
+      "web": ""
+    },
+    "126": {
+      "name": "Miranda-Valdecarzana Mansion - Los Dolores Chapel",
+      "location": "Grado",
+      "lat": 43.389292,
+      "lon": -6.069025,
+      "web": ""
+    },
+    "127": {
+      "name": "Ecomuseo la Ponte",
+      "location": "Santo Adriano",
+      "lat": 43.272327,
+      "lon": -6.003038,
+      "web": ""
+    },
+    "128": {
+      "name": "Selgas Fagalde Foundation",
+      "location": "Cudillero",
+      "lat": 43.552152,
+      "lon": -6.139143,
+      "web": ""
+    },
+    "129": {
+      "name": "The Anchor Museum",
+      "location": "Castrillón",
+      "lat": 43.57893,
+      "lon": -5.968305,
+      "web": ""
+    },
+    "130": {
+      "name": "Revillagigedo Palace and Collegiate Church",
+      "location": "Gijón",
+      "lat": 43.545375,
+      "lon": -5.663497,
+      "web": ""
+    },
+    "131": {
+      "name": "The Vaquiero Museum of Asturias",
+      "location": "Tineo",
+      "lat": 43.425356,
+      "lon": -6.536483,
+      "web": ""
+    },
+    "132": {
+      "name": "La Casa del Tiempo",
+      "location": "Piloña",
+      "lat": 43.347713,
+      "lon": -5.363262,
+      "web": ""
+    },
+    "133": {
+      "name": "The Pueblo de Asturias Folk Museum",
+      "location": "Gijón",
+      "lat": 43.537095,
+      "lon": -5.634525,
+      "web": ""
+    },
+    "134": {
+      "name": "Iron Crafts Interpretation Centre",
+      "location": "Boal",
+      "lat": 43.439369,
+      "lon": -6.85695,
+      "web": ""
+    },
+    "135": {
+      "name": "Emigration and Public Education Interpretation Centre.",
+      "location": "Boal",
+      "lat": 43.420693,
+      "lon": -6.822784,
+      "web": ""
+    },
+    "136": {
+      "name": "The House of Beekeeping",
+      "location": "Boal",
+      "lat": 43.434426,
+      "lon": -6.795305,
+      "web": ""
+    },
+    "137": {
+      "name": "The Cheese Cave",
+      "location": "Cabrales",
+      "lat": 43.299282,
+      "lon": -4.819475,
+      "web": ""
+    },
+    "138": {
+      "name": "The Radio House",
+      "location": "Bimenes",
+      "lat": 43.338917,
+      "lon": -5.585149,
+      "web": ""
+    },
+    "139": {
+      "name": "Museum of Covadonga",
+      "location": "Cangas de Onís",
+      "lat": 43.308567,
+      "lon": -5.054506,
+      "web": ""
+    },
+    "140": {
+      "name": "Jovellanos' Birthplace",
+      "location": "Gijón",
+      "lat": 43.545866,
+      "lon": -5.662634,
+      "web": ""
+    },
+    "141": {
+      "name": "Bridge over the River Sella ('Roman Bridge')",
+      "location": "Cangas de Onís",
+      "lat": 43.350164,
+      "lon": -5.131989,
+      "web": ""
+    },
+    "142": {
+      "name": "Pesoz Ethnological Museum",
+      "location": "Pesoz",
+      "lat": 43.255612,
+      "lon": -6.876789,
+      "web": ""
+    },
+    "143": {
+      "name": "Museo de la Romería",
+      "location": "Siero",
+      "lat": 43.405267,
+      "lon": -5.814968,
+      "web": ""
+    },
+    "144": {
+      "name": "The Forge Museum",
+      "location": "El Franco",
+      "lat": 43.550088,
+      "lon": -6.828135,
+      "web": ""
+    },
+    "145": {
+      "name": "Museo de la Cuchillería",
+      "location": "Taramundi",
+      "lat": 43.360649,
+      "lon": -7.116895,
+      "web": ""
+    },
+    "146": {
+      "name": "Benjamin Pumarada Museum of Customs (La Panerona de Cenera)",
+      "location": "Mieres",
+      "lat": 43.218663,
+      "lon": -5.818637,
+      "web": ""
+    },
+    "147": {
+      "name": "Collegiate Church of Our Lady of Covadonga",
+      "location": "Cangas de Onís",
+      "lat": 43.307926,
+      "lon": -5.054678,
+      "web": ""
+    },
+    "148": {
+      "name": "Asturian Popular Pottery House-Museum",
+      "location": "Cabranes",
+      "lat": 43.398548,
+      "lon": -5.421466,
+      "web": ""
+    },
+    "149": {
+      "name": "Valdés-Salas House-Palace",
+      "location": "Salas",
+      "lat": 43.409354,
+      "lon": -6.261403,
+      "web": ""
+    },
+    "150": {
+      "name": "Asturias si yo Pudiera",
+      "location": "Gijón",
+      "lat": 43.453958,
+      "lon": -5.625222,
+      "web": ""
+    },
+    "151": {
+      "name": "La Loja Cave Educational Exhibition",
+      "location": "Peñamellera Baja",
+      "lat": 43.3305,
+      "lon": -4.55362,
+      "web": ""
+    },
+    "152": {
+      "name": "Pre-Romanesque Museum of San Martín de Salas",
+      "location": "Salas",
+      "lat": 43.409315,
+      "lon": -6.261918,
+      "web": ""
+    }
+  }
+}
