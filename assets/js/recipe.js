@@ -9,6 +9,9 @@ const downArrowH = document.getElementById('down-arrow-h');
 const upArrowH = document.getElementById('up-arrow-h');
 const downArrowFr = document.getElementById('down-arrow-fr');
 const upArrowFr = document.getElementById('up-arrow-fr');
+const rTitle = document.getElementById('recipe-title');
+const btnR = document.getElementById("btn-hamburguer");
+
 
 const showRecipe = (element1, element2, element3) => {
   element1.classList.toggle('hide');
@@ -27,6 +30,7 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     })
   }
+
   for (let button of buttonsClose) {
     button.addEventListener('click', () => {
       if (button.value == 'fabada') {
@@ -38,4 +42,8 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     })
   }
+
+  btnR.addEventListener('click', () => {
+    rTitle.classList.toggle('mt-12vw');
+  });
 })
