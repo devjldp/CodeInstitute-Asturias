@@ -45,6 +45,7 @@ main {
 
 .mt-12vw {
   margin-top: 30vw;
+  transition: 2000ms;
 }
 
 /* ------ spacing ------ */
@@ -420,7 +421,7 @@ figure img {
     display: flex;
     flex-direction: column;
     background-color: #354F52;
-    transition: 1000ms;
+    transition: 2000ms;
     z-index: -1;
     padding: 5px 0;
   }
@@ -460,6 +461,11 @@ figure img {
     transform: translateX(0);
     background-color: #E8E2BA;
     margin-bottom: 5%;
+  }
+
+  /* carousel */
+  #gallery-title {
+    font-size: 1.5em;
   }
 
 
