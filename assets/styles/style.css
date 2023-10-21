@@ -279,6 +279,7 @@ footer {
   /* Clip content that overflows the card area */
   transition: 2000ms;
   /* Set a 2-second transition for style changes */
+  margin: 0%
 }
 
 .card .front {
@@ -349,6 +350,7 @@ footer {
 
 @media screen and (max-width:480px) {
 
+  /* header */
   .nav-links {
     position: fixed;
     top: -12vh;
@@ -370,12 +372,28 @@ footer {
     display: block;
   }
 
+  /* index  */
   #text-main-image h2 {
     display: none;
   }
 
   #index-buttons {
     display: none;
+  }
+
+  /* history  */
+  .card {
+    position: relative;
+    width: 80vw;
+    height: 390px;
+    margin: 0 auto;
+    margin-top: 5%;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+    cursor: pointer;
+    transform: translateX(0);
+    background-color: #E8E2BA;
+    margin-bottom: 5%;
   }
 
 }
