@@ -43,6 +43,10 @@ main {
   font-weight: bold;
 }
 
+.mt-12vw {
+  margin-top: 30vw;
+}
+
 /* ------ spacing ------ */
 
 .text-center {
@@ -352,7 +356,7 @@ footer {
 
   /* header */
   .nav-links {
-    position: fixed;
+    position: absolute;
     top: -24vh;
     width: 100%;
     height: auto;
@@ -360,7 +364,7 @@ footer {
     flex-direction: column;
     background-color: #354F52;
     transition: 1000ms;
-    z-index: -1;
+    z-index: -5;
     padding: 5px 0;
   }
 
@@ -383,6 +387,10 @@ footer {
   }
 
   /* history  */
+  #history-title {
+    font-size: 1.5em;
+  }
+
   .card {
     position: relative;
     width: 80vw;
@@ -396,5 +404,6 @@ footer {
     background-color: #E8E2BA;
     margin-bottom: 5%;
   }
+
 
 }
