@@ -693,7 +693,8 @@ p {
   }
 
   #current-weather-image {
-    height: 7vh;
+    width: 100px;
+    height: 100px;
   }
 
   .day-image {
