@@ -78,6 +78,10 @@ button {
   display: none;
 }
 
+.show {
+  display: block;
+}
+
 /* ------------------ header ------------------ */
 
 #container-header {
@@ -106,16 +110,15 @@ nav {
   background-size: contain;
 }
 
-#navigation {
+.nav-links {
   flex: 70%;
 }
 
 .inline-block-nav {
   display: inline-block;
-  /* margin-right: 20px; */
 }
 
-#navigation ul {
+.nav-links ul {
   list-style: none;
   width: 100%;
   display: flex;
@@ -128,12 +131,12 @@ nav {
   padding: 0%;
 }
 
-#navigation a {
+.nav-links a {
   color: #fafafa;
   text-decoration: none;
 }
 
-#navigation a:hover {
+.nav-links a:hover {
   color: #FFD700;
 }
 
@@ -142,4 +145,26 @@ nav {
   align-self: center;
   margin-right: 5%;
   display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px) {
+
+  .nav-links {
+    display: none;
+  }
+
+  #btn-hamburguer {
+    display: block;
+  }
+
 }
