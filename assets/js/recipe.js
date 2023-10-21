@@ -27,4 +27,15 @@ window.addEventListener("DOMContentLoaded", () => {
       }
     })
   }
+  for (let button of buttonsClose) {
+    button.addEventListener('click', () => {
+      if (button.value == 'fabada') {
+        showRecipe(fabada, upArrowF, downArrowF);
+      } else if (button.value == 'hake') {
+        showRecipe(hake, upArrowH, downArrowH);
+      } else if (button.value == 'frixuelos') {
+        showRecipe(frixuelos, upArrowFr, downArrowFr);
+      }
+    })
+  }
 })
