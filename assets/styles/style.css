@@ -350,6 +350,10 @@ footer {
   background-color: #333333;
 }
 
+.back h2 {
+  font-family: 'Irish Grover', cursive;
+}
+
 /* ------------------ gallery.html ------------------ */
 
 .container-gallery {
