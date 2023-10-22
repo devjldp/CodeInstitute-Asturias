@@ -183,6 +183,15 @@ window.addEventListener('DOMContentLoaded', async () => {
       map.setView([43.362014825626254, -5.850953691346048], 10);
       // restaurantLayer.remove()
     })
+
+    // add a margin top to the main content,
+    // when the dropmenu is displayed
+    let btnM = document.getElementById("btn-hamburguer");
+    let mTitle = document.getElementById("map-title");
+
+    btnM.addEventListener('click', () => {
+      mTitle.classList.toggle('mt-12vw');
+    });
   } catch (error) {
     console.error('Error fetching data:', error);
   }

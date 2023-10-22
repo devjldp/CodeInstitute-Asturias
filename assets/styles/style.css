@@ -780,6 +780,10 @@ p {
   .asturias-center button {
     width: 40%;
   }
+
+  #history-title {
+    font-size: 1.5em;
+  }
 }
 
 @media screen and (max-width:400px) {
