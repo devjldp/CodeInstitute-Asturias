@@ -42,7 +42,7 @@ const getGeoLocation = async () => {
     const success = (position) => {
       const lat = position.coords.latitude;
       const lon = position.coords.longitude;
-      resolve([lat, lon]); // Resolve the promise with an array [latitude, longitude]
+      resolve([lat, lon]);
     };
     // Error callback when there is an issue obtaining the location
     const error = (msg) => {
