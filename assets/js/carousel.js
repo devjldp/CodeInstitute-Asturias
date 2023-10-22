@@ -28,13 +28,13 @@ window.addEventListener('DOMContentLoaded', () => {
       el: '.swiper-pagination',
       type: 'progressbar',
     },
-  })
+  });
 
 
   let btnG = document.getElementById("btn-hamburguer");
-  let gTitle = document.getElementById("gallery-title")
+  let gTitle = document.getElementById("gallery-title");
 
   btnG.addEventListener('click', () => {
     gTitle.classList.toggle('mt-12vw');
   });
-})
+});

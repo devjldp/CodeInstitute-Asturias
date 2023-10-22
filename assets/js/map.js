@@ -26,7 +26,7 @@ let currentPositionIcon = L.icon({
   iconSize: [40, 40],
   iconAnchor: [20, 0],
   popupAnchor: [0, 0]
-})
+});
 
 /**
  * Asynchronous function to obtain the user's geographic location.
@@ -54,7 +54,7 @@ const getGeoLocation = async () => {
     // Get the user's current location using the navigator.geolocation object
     navigator.geolocation.getCurrentPosition(success, error, options);
   });
-}
+};
 
 /**
  * Asynchronous function to fetch data from a URL.
@@ -63,13 +63,13 @@ const getGeoLocation = async () => {
  */
 const getData = async (url) => {
   try {
-    let data = await fetch(url)
-    let restaurants = await data.json()
-    return restaurants
+    let data = await fetch(url);
+    let restaurants = await data.json();
+    return restaurants;
   } catch (error) {
-    console.log(error)
+    console.log(error);
   }
-}
+};
 
 window.addEventListener('DOMContentLoaded', async () => {
   // const current = await getGeoLocation();
@@ -89,60 +89,60 @@ window.addEventListener('DOMContentLoaded', async () => {
     // Add a marker for the user's current position
     L.marker([position[0], position[1]], {
       icon: currentPositionIcon
-    }).addTo(map)
-    let group = []
-    console.log(Object.keys(restaurants).length)
+    }).addTo(map);
+    let group = [];
+    // console.log(Object.keys(restaurants).length)
     for (let clave in restaurants) {
-      if (restaurants[clave]['web'] != '') {
+      if (restaurants[clave].web != '') {
 
-        if (restaurants[clave]['stars'] == 2) {
-          console.log(restaurants[clave]['stars'])
+        if (restaurants[clave].stars == 2) {
+          console.log(restaurants[clave].stars);
           restaurantIcon = L.icon({
             iconUrl: './assets/icons/gourmet_2stars.png'
           });
-        } else if (restaurants[clave]['stars'] == 1) {
+        } else if (restaurants[clave].stars == 1) {
           restaurantIcon = L.icon({
             iconUrl: './assets/icons/gourmet_1star.png'
           });
-        } else if (restaurants[clave]['stars'] == 0) {
+        } else if (restaurants[clave].stars == 0) {
           restaurantIcon = L.icon({
             iconUrl: './assets/icons/gourmet_0star.png'
           });
         }
-        group.push(L.marker([restaurants[clave]['lat'], restaurants[clave]['lon']], {
+        group.push(L.marker([restaurants[clave].lat, restaurants[clave].lon], {
             icon: restaurantIcon
           }).addTo(map)
-          .bindPopup(`${restaurants[clave]['name']} </br> ${restaurants[clave]['location']} </br> <a href="${restaurants[clave]['web']}" target="_blank">${restaurants[clave]['name']}</a>`))
+          .bindPopup(`${restaurants[clave].name} </br> ${restaurants[clave].location} </br> <a href="${restaurants[clave].web}" target="_blank">${restaurants[clave].name}</a>`));
       } else {
         restaurantIcon = L.icon({
           iconUrl: './assets/icons/gourmet_0star.png'
         });
-        group.push(L.marker([restaurants[clave]['lat'], restaurants[clave]['lon']], {
+        group.push(L.marker([restaurants[clave].lat, restaurants[clave].lon], {
             icon: restaurantIcon
           }).addTo(map)
-          .bindPopup(`${restaurants[clave]['name']} </br> ${restaurants[clave]['location']}`))
+          .bindPopup(`${restaurants[clave].name} </br> ${restaurants[clave].location}`));
       }
 
     }
-    console.log(group.length)
+    // console.log(group.length)
 
-    let restaurantLayer = L.layerGroup(group)
-    group = []
+    let restaurantLayer = L.layerGroup(group);
+    group = [];
     for (let clave in beaches) {
-      group.push(L.marker([beaches[clave]['lat'], beaches[clave]['lon']], {
+      group.push(L.marker([beaches[clave].lat, beaches[clave].lon], {
           icon: beachIcon
         }).addTo(map)
-        .bindPopup(`${beaches[clave]['name']} </br> `))
+        .bindPopup(`${beaches[clave].name} </br> `));
     }
-    let beachLayer = L.layerGroup(group)
-    group = []
+    let beachLayer = L.layerGroup(group);
+    group = [];
     for (let clave in museums) {
-      group.push(L.marker([museums[clave]['lat'], museums[clave]['lon']], {
+      group.push(L.marker([museums[clave].lat, museums[clave].lon], {
           icon: museumIcon
         }).addTo(map)
-        .bindPopup(`${museums[clave]['name']} </br> `))
+        .bindPopup(`${museums[clave].name} </br> `));
     }
-    let museumLayer = L.layerGroup(group)
+    let museumLayer = L.layerGroup(group);
 
     let overlayMaps = {
       "Restaurnat": restaurantLayer,
@@ -180,11 +180,11 @@ window.addEventListener('DOMContentLoaded', async () => {
       ]
     }).addTo(map);
 
-    let center = document.getElementById('center')
+    let center = document.getElementById('center');
     center.addEventListener('click', () => {
       map.setView([43.362014825626254, -5.850953691346048], 10);
       // restaurantLayer.remove()
-    })
+    });
 
     // add a margin top to the main content,
     // when the dropmenu is displayed
@@ -197,5 +197,4 @@ window.addEventListener('DOMContentLoaded', async () => {
   } catch (error) {
     console.error('Error fetching data:', error);
   }
-
-})
+});

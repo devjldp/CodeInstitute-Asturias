@@ -8,4 +8,4 @@ window.addEventListener('DOMContentLoaded', () => {
   btnBurguer.addEventListener('click', () => {
     navigation.classList.toggle('active');
   });
-})
+});

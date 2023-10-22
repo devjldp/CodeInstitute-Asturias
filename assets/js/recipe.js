@@ -24,7 +24,7 @@ const showRecipe = (element1, element2, element3) => {
   element1.classList.toggle('hide');
   element2.classList.toggle('hide');
   element3.classList.toggle('hide');
-}
+};
 
 window.addEventListener("DOMContentLoaded", () => {
   for (let button of buttons) {
@@ -36,7 +36,7 @@ window.addEventListener("DOMContentLoaded", () => {
       } else if (button.value == 'frixuelos') {
         showRecipe(frixuelos, upArrowFr, downArrowFr);
       }
-    })
+    });
   }
 
   for (let button of buttonsClose) {
@@ -48,10 +48,10 @@ window.addEventListener("DOMContentLoaded", () => {
       } else if (button.value == 'frixuelos') {
         showRecipe(frixuelos, upArrowFr, downArrowFr);
       }
-    })
+    });
   }
 
   btnR.addEventListener('click', () => {
     rTitle.classList.toggle('mt-12vw');
   });
-})
+});
