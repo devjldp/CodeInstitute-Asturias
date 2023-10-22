@@ -723,6 +723,10 @@ p {
     display: none;
   }
 
+  #text-main-image {
+    bottom: 40%;
+  }
+
   /* history  */
   #history-title {
     font-size: 1.5em;
