@@ -1,0 +1,44 @@
+Test ID,Description,Test Data,Expected Result,Actual Result,Pass / Fail,Actions
+NavBar_1,"From each page, click on all navigation links to go to 
+The different pages",,"When clicking on the link, the page redirects to 
+Its corresponding reference. ","When clicking on the link, the page redirects to 
+Its corresponding reference. ",Pass,
+NavBar_2,"When hovering over the link, it displays a hover effect. ",,"Cursor: Pointer
+Link colour: Gold
+Text decoration: None","Cursor: Pointer
+Link colour: Gold
+Text decoration: None",Pass,
+Footer_1,Click on social links.,,"When clicking on the link, the page redirects to 
+Its corresponding social media site in a new tab. ","When clicking on the link, the page redirects to 
+Its corresponding social media site in a new tab. ",Pass,
+Footer_2,"When hovering over the social link, 
+It displays a hover effect. ",,Colour Link change to a gold colour,Colour Link change to a gold colour,Pass,
+Btn_1,Click index button Explore Asturias,,"When clicking on the button,                  
+the page redirects to the map page","When clicking on the button,               
+The page redirects to the map page",Pass,
+Btn_2,Click index button Weather,,"When clicking on the button,                      
+the page redirects to the weather page","When clicking on the button,        
+the page redirects to the weather page",Pass,
+Btn_3,Click index button Gallery,,"When clicking on the button,                      
+the page redirects to the gallery page","When clicking on the button,            
+the page redirects to the gallery page",Pass,
+Card_1,Click card in gallery page,,"When clicking on the card, it flips and display       
+The information","When clicking on the card, it flips and display   
+The information",Pass,
+Card_2,Scroll bar on the card gallery page,,"The scroll bar has a hover effect and
+ Scrolls correctly","The scroll bar has a hover effect and
+ Scrolls correctly",Pass,
+Gallery_1,Click on the forward arrow,,"Clicking on the forward arrow, the next image is displayed. ","Clicking on the forward arrow, the next image is displayed. ",Pass,
+Gallery_2,Click on the backward arrow,,"Clicking on the backward arrow, the previous image is displayed.","Clicking on the backward arrow, the previous image is displayed.",Pass,
+Gallery_3,Press right arrow key,,Pressing the right arrow key on the keyboard displays the next image. ,Pressing the right arrow key on the keyboard displays the next image. ,Pass,
+Gallery_4,Press left arrow key,,Pressing the left arrow key displays the previous image. ,Pressing the left arrow key displays the previous image. ,Pass,
+Btn_4,Click “see recipe” fabada button,,"Clicking on the “see recipe” fabada button, the fabada’s recipe is displayed and the arrow image changes.","Clicking on the “see recipe” fabada button, the fabada’s recipe is displayed and the arrow image changes.",Pass,
+Btn_5,Click “see recipe” fabada button,,"If the recipe is displayes, clicking on the “see recipe” fabada button, the fabada’s recipe is hidden and the arrow image changes.","If the recipe is displayes, clicking on the “see recipe” fabada button, the fabada’s recipe is hidden and the arrow image changes.",Pass,
+Btn_6,Click “close (x)” button fabada recipe,,"Clicking on the “close” fabada button, the recipe is hidden.","Clicking on the “close” fabada button, the recipe is hidden.",Pass,
+Btn_7,Click “see recipe” hake button,,"Clicking on the “see recipe” hake button, the hake’s recipe is displayed and the arrow image changes.","Clicking on the “see recipe” hake button, the hake’s recipe is displayed and the arrow image changes.",Pass,
+Btn_8,Click “see recipe” hake button,,"If the recipe is displayes, clicking on the “see recipe” hake button, the hake’s recipe is hidden and the arrow image changes.","If the recipe is displayes, clicking on the “see recipe” hake button, the hake’s recipe is hidden and the arrow image changes.",Pass,
+Btn_9,Click “close (x)” button hake recipe,,"Clicking on the “close” hake button, the recipe is hidden.","Clicking on the “close” hake button, the recipe is hidden.",Pass,
+Btn_10,Click “see recipe” frixuelos button,,"Clicking on the “see recipe” frixuelos button, the frixuelos’s recipe is displayed and the arrow image changes.","Clicking on the “see recipe” frixuelos button, the frixuelos’s recipe is displayed and the arrow image changes.",Pass,
+Btn_11,Click “see recipe” frixuelos button,,"If the recipe is displayes, clicking on the “see recipe” frixuelos button, the frixuelos’s recipe is hidden and the arrow image changes.","If the recipe is displayes, clicking on the “see recipe” frixuelos button, the frixuelos’s recipe is hidden and the arrow image changes.",Pass,
+Btn_12,Click “close (x)” button frixuelos recipe,,"Clicking on the “close” frixuelos button, the recipe is hidden.","Clicking on the “close” frixuelos button, the recipe is hidden.",Pass,
+Btn_13,Click “Go to Asturias” button,,The map is redirected to Asturias,The map is redirected to Asturias,Pass,
