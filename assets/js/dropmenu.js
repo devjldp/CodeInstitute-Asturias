@@ -1,3 +1,5 @@
+/* jshint esversion:8 */
+
 let btnBurguer = document.getElementById("btn-hamburguer");
 let navigation = document.getElementById("navigation");
 

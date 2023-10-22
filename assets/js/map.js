@@ -1,3 +1,5 @@
+/* jshint esversion:8 */
+
 let restaurantIcon = L.icon({
   iconUrl: './assets/icons/gourmet_0star.png',
   iconSize: [40, 40],

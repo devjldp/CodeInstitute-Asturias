@@ -1,3 +1,5 @@
+/* jshint esversion:8 */
+
 const buttons = document.querySelectorAll('.recipe-button');
 const fabada = document.getElementById('fabada');
 const frixuelos = document.getElementById('frixuelos');

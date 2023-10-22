@@ -1,3 +1,5 @@
+/* jshint esversion:8 */
+
 const cards = document.querySelectorAll('.card');
 const btnH = document.getElementById("btn-hamburguer");
 let hTitle = document.getElementById("history-title");

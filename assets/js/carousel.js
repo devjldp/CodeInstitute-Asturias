@@ -1,3 +1,5 @@
+/* jshint esversion:8 */
+
 window.addEventListener('DOMContentLoaded', () => {
   new Swiper('#swiper-2', {
     centeredSlides: true,

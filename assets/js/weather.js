@@ -1,3 +1,5 @@
+/* jshint esversion:8 */
+
 // Days used to be displayed
 const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
