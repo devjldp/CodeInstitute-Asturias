@@ -84,7 +84,7 @@ const getCurrentWeather = async () => {
     const weather = await data.json();
     return weather;
   } catch (error) {
-    console.log(f `An error has happened: ${error}`);
+    console.log(`An error has happened: ${error}`);
     throw error;
   }
 };
@@ -102,7 +102,7 @@ const getDataWeather = async (city) => {
     const weather = await data.json();
     return weather;
   } catch (error) {
-    console.log(f `An error has happened: ${error}`);
+    console.log(`An error has happened: ${error}`);
     throw error;
   }
 };
@@ -183,12 +183,12 @@ window.addEventListener('DOMContentLoaded', async () => {
         showImage(data, city);
         showInfo(data, city, days);
       } catch (error) {
-        console.log(f `An error has ocurred when iterate on ${city} ${error}`);
+        console.log(`An error has ocurred when iterate on ${city} ${error}`);
         throw error;
       }
     }
   } catch (error) {
-    console.log(f `An error has ocurred: ${error}`);
+    console.log(`An error has ocurred: ${error}`);
     throw error;
   }
   let btnW = document.getElementById("btn-hamburguer");
