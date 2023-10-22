@@ -768,6 +768,11 @@ p {
   #cities-line {
     height: 5px;
   }
+
+  /* map */
+  .asturias-center button {
+    width: 40%;
+  }
 }
 
 @media screen and (max-width:400px) {
