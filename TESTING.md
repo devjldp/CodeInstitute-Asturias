@@ -2,6 +2,35 @@
 
 ## Compatibility
 
+The website has been tested in the next browsers: Chrome, Edge and Opera
+
+  * ### Chrome
+
+  ![index chrome](documentation/browsers/index_chrome.png)
+  ![history chrome](documentation/browsers/history_chrome.png)
+  ![Gallery chrome](documentation/browsers/gallery_chrome.png)
+  ![Recipe chrome](documentation/browsers/recipe_chrome.png)
+  ![Weather chrome](documentation/browsers/weather_chrome.png)
+  ![Map chrome](documentation/browsers/map_chrome.png)
+
+ * ### Opera
+
+  ![index opera](documentation/browsers/index_opera.png)
+  ![history opera](documentation/browsers/history_opera.png)
+  ![Gallery opera](documentation/browsers/gallery_opera.png)
+  ![Recipe opera](documentation/browsers/recipe_opera.png)
+  ![Weather opera](documentation/browsers/weather_opera.png)
+  ![Map opera](documentation/browsers/map_opera.png)
+
+ * ### Edge
+
+  ![index edge](documentation/browsers/index_edge.png)
+  ![history edge](documentation/browsers/history_edge.png)
+  ![Gallery edge](documentation/browsers/gallery_edge.png)
+  ![Recipe edge](documentation/browsers/recipe_edge.png)
+  ![Weather edge](documentation/browsers/weather_edge.png)
+  ![Map edge](documentation/browsers/map_edge.png)  
+
 ## Devtools testing
 
   * The web was checked by devtools implemented on Firefox and Chrome browsers.
@@ -94,5 +123,40 @@
       
       ![Map test](documentation/js_test/weather_test.png)
 
+## Manual testing
+
+  * Manual test with diferrent cases can find in the next **csv file**. [Manual test](documentation/manual_testing/manual_testing.csv)
+
+![Manual testing 1](documentation/manual_testing/manual_testing1.png)
+![Manual testing 2](documentation/manual_testing/manual_testing2.png)
+
 
 ## Acesibility and Performance
+
+  Accessibility and performance were analyzed using Lighthouse in DevTools.
+
+  * **index.html**
+
+  ![Index performance](documentation/performance/index.png)
+
+  * **history.html**
+
+  ![History performanceperformance](documentation/performance/history.png)
+
+  * **gallery.html** 
+
+  ![Gallery performance](documentation/performance/gallery.png)
+
+  * **recipes.html**
+
+  ![Recipes performance](documentation/performance/recipes.png)
+
+  * **weather.html**    
+
+  ![Weather performance](documentation/performance/weather.png)
+
+  * **map.html**
+
+  ![Map performance](documentation/performance/map.png)
+
+
