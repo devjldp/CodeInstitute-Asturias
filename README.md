@@ -1,5 +1,9 @@
 # Explore Asturias
-Explore Asturias app has been built to introduce the world to the region in Spain where I am originally from. This app will help you understand its history, discover its cuisine and landscapes, and find nearby locations if you are visiting Asturias, thanks to its map.
+Explore Asturias app has been built to introduce the world to the region in Spain where I am originally from. This app will help you understand its history, discover its cuisine and landscapes, and find nearby locations if you are visiting Asturias, thanks to its map.  
+
+The site can be accessed by this [link](https://devjldp.github.io/CodeInstitute-Asturias/)
+
+![Responsive](documentation/responsive.png)
 
 ---
 ## User Histories
@@ -129,12 +133,12 @@ Explore Asturias app has been built to introduce the world to the region in Spai
   * The first step, select the various colors that could match the website and carry out different tests on the background and buttons.
     * Possible colours and designs:
 
-  ![Colours](documentation/design/color_options.png)
-  ![Designs](documentation/design/colors_options1.png)
+    ![Colours](documentation/design/color_options.png)
+    ![Designs](documentation/design/colors_options1.png)
 
     * Definitive colours:
 
-  ![Definitve colours](documentation/design/colours.png)
+    ![Definitve colours](documentation/design/colours.png)
 
   * Second step, choose the font type for the text. [Google Fonts](https://fonts.google.com/) was used, and in the end, the following fonts were selected:
     * h1 and h2 - font-family: 'Lora', serif;
@@ -172,11 +176,126 @@ Explore Asturias app has been built to introduce the world to the region in Spai
 
 ![Map wireframes](documentation/wireframes/map.png)
 ## Project Development
+The project development followed the following steps: 
+* pre-design of the app using Figma. 
+* Next, practice of each of the features that the app was going to be composed of: (Todo el codigo esta en mi GitHub personal)
+  * [Carousel](https://github.com/devjldp/courosel1) - [Live](https://devjldp.github.io/courosel1/)
+  * [Weather App](https://github.com/devjldp/weatherApp) - [Live](https://devjldp.github.io/weatherApp/)
+  * [Map](https://github.com/devjldp/leaflet-map) -[Live](https://devjldp.github.io/leaflet-map/)
+  * [Flip Cards](https://github.com/devjldp/flip-cards-js) - [Live](https://devjldp.github.io/flip-cards-js/)
+
+* After this, the only thing left was to put the pieces together in a first version of the app.
+  * [Asturias](https://github.com/devjldp/asturias) - [Live](https://devjldp.github.io/asturias/)
+
+The reason for this process is that I consider myself in the process of learning new technologies. The development of this learning method has allowed me to learn more about CSS and JavaScript, as well as all the mistakes I have made along the way. I can say that after this second milestone, I have acquired a more solid foundation in HTML, CSS, and JavaScript.
 
 ## Testing
 
+  Please refer to the [TESTING.md](TESTING.md) file for all test-related documentation.
+
+## Bugs
+
+  ### Solved Bugs
+  * The webpage occupies more than 100% of the screen on mobile devices.
+
+    ![bug1](documentation/bugs/history_margin_right.png)
+
+    * Solution: Add margin 0% to class face
+
+  * The hamburger menu is attached to the page logo when the screen size is less than 350px. 
+
+    ![bug2](documentation/bugs/hamburguer_button.png)
+
+    * Solution: Add padding left to the element
+
+  * The dropdown menu remains visible when the screen size is less than 480px.
+
+    ![bug3](documentation/bugs/responsive_links.png)
+
+    * Solution: Decrease the top position
+
+  * The dropdown menu hides the title h1.
+
+    ![bug4](documentation/bugs/history_title.png)
+
+    * Solution: Increase margin top element h1 / change font size
+  
+  * The dropdown menu remained fixed. 
+  
+    ![bug5](documentation/bugs/drop_menu_fixed.png)
+
+    * Solution: Change its position from fixed to absolute 
+  
+  * The button doesn’t adapt to the text
+  
+    ![bug6](documentation/bugs/button_recipe.png)
+    
+    * Solution: Increase the width for mobile devices.
+  
+  * The button doesn’t have funcionality
+
+    ![bug7](documentation/bugs/button_close_recipe.png)
+
+    * Solution: Error in conditions if statements. Change the conditions
+  
+  * No padding in the elements inside recipe-stepscontainer. Poor user experience
+
+    ![bug8](documentation/bugs/recipe_steps_padding.png)
+
+    * Solution: Add padding to mobile devices media queries. 
+
+
+  ### Unsolved bugs
+
+  * The geolocation in the map is not accurate. There is an inaccuracy of several meters.
+
 ## Deployment
+  * The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the [GitHub repository](https://github.com/devjldp/CodeInstitute-Asturias), navigate to the Settings tab
+    * From the source section drop-down menu, select the Main Branch, then click "Save".
+The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.  
+The live link can be found [here](https://devjldp.github.io/CodeInstitute-Asturias/)
+
 
 ## Credits
 
+  * ### Images
+
+    * **index:**  
+      [cudillero](https://www.thetimes.co.uk/article/asturias-and-galicia-spains-sensational-north-m6xrf5bmc), [Asturias Logo](https://deporteasturiano.org/mas/logotipos/)
+
+    * **History**  
+      [Prehistoria](https://www.hoteles.net/asturias/ribadesella/cueva-tito-bustillo-ribadesela-asturias.html), [Ancient times](https://tusdestinos.net/gijon-romano-cimavilla-campa-torres-veranes/), 
+      [Covadonga](https://www.turismocangasdeonis.com/covadonga.html), 
+      [Middle ages](https://www.barcelo.com/guia-turismo/es/espana/asturias/que-ver/santa-maria-del-naranco/), 
+      [Modern Era](https://www.gaudeo.es/lapis), [Contemporary Era](https://viajes.chavetas.es/guia/asturias/mejores-miradores-de-gijon/)
+
+    * **Gallery**
+      [Asturian costume](https://www.elcomercio.es/gijon/gijon-festeja-asturias-20180805224627-ga.html), [Bulnes village](https://www.iberian-escapes.com/picos-de-europa-national-park-guide.html#gallery[pageGallery]/2/), [Covadonga sanctuary](https://www.lavozdeasturias.es/noticia/asturias/2023/04/04/guia-completa-puedes-visitar-covadonga/00031680629223425336179.htm), [Sea cave](https://www.asturiasopinion.com/viajes/playa-de-cuevas-del-mar/), [Enol lake](https://www.iberian-escapes.com/picos-de-europa-national-park-guide.html#gallery[pageGallery]/2/), [Ercina lake](https://www.iberian-escapes.com/picos-de-europa-national-park-guide.html#gallery[pageGallery]/2/), [Gascona](https://www.facebook.com/photo/?fbid=559747256201116&set=a.559747196201122), [Gulpiyuri beach](https://viajar.elperiodico.com/escapate_cerca/playas-bonitas-asturias-paseo-belleza-85011625), [mine museum](https://www.tripadvisor.co.uk/Attraction_Review-g2695910-d2508969-Reviews-Museum_of_Mining_and_Industry-El_Entrego_San_Martin_del_Rey_Aurelio_Municipality.html),[Muniellos](https://www.traveler.es/naturaleza/articulos/visitar-el-bosque-reserva-de-muniellos-asturias-robledal-visitar-que-hacer/13713), [Muniellos river](https://www.traveler.es/naturaleza/articulos/visitar-el-bosque-reserva-de-muniellos-asturias-robledal-visitar-que-hacer/13713), [Penarronda beach](https://www.turismoasturias.es/-/blogs/12-playas-inolvidables-para-un-verano-en-asturias), [Picu Urriello](https://www.iberian-escapes.com/picos-de-europa-national-park-guide.html#gallery[pageGallery]/2/), [San Juan night](https://www.elcomercio.es/planes/hogueras-noche-san-juan-asturias-20220621215603-nt.html?ref=https%3A%2F%2Fwww.google.com%2F), [soton mine](https://machbel.com/viajes/espana/asturias/minas-visitar/), [Tierra Astur](https://www.turismoasturias.es/fr/organiza-tu-viaje/donde-comer/restaurantes/tierra-astur-gascona)
+
+    * **Recipes**
+      [Fabada](https://www.comedera.com/fabada-asturiana/), [Hake in cider](https://www.hogarmania.com/cocina/recetas/pescados-mariscos/merluza-sidra-asturiana-karlos-arguinano.html), [Frixuelos](https://www.20minutos.es/gastronomia/recetas/receta-frixuelos-menos-de-2-euros-dulce-tradicional-asturiano-5114936/) 
+  
+    * **Map Icons**  
+      The were obtained from this [web](https://mapicons.mapsmarker.com/) 
+  * ### Code
+
+    * **leaflet.legend.js** This code is a plugin for leaflet and it was taken form [here](https://github.com/ptma/Leaflet.Legend)
+    * **leaflet.legend.css** This code is a plugin for leaflet and it was taken form [here](https://github.com/ptma/Leaflet.Legend)
+    * **history.js** This code was adapted for me, after watching a tutorial on [youtube](https://www.youtube.com/watch?v=QGVXmoZWZuw&ab_channel=TylerPotts)
+
+    The rest of code was made for me studying more about JavaScript or follow the documentation of the libraries or APIs
+
+    * **map.js** Leaflet documentation [here](https://leafletjs.com/examples/quick-start/)
+    * **carousel.js** Swiper documentation [here](https://swiperjs.com/get-started)
+    *  **weather.js** weatherapi documentation [here](https://www.weatherapi.com/docs/)
+    *  **Async functions** Learning more about async and await [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+    *  **Promises** Learning more about promises [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises) 
+
+    * **JSON file** The data in JSON format was downloaded from this [page](https://www.turismoasturias.es/en/open-data/catalogo-de-datos), and the required information was extracted into the 'data.json' file.
+
+
 ## Acknowledgements
+
+  * **Iuliia Konovalova**: My mentor for her advices and guidance throughout this project. She has helped me to improve.
+  * **Iris Smok**: Our cohort facilitator for her guidance and support throughout the course.
